@@ -1,0 +1,7 @@
+fast_accel_mul_32ns_32ns_64_2_1
+fast_accel_mul_32ns_32s_62_2_1
+fast_accel_mul_33ns_32s_62_2_1
+fast_accel_CTRL_s_axi
+fast_accel_control_s_axi
+fast_accel_gmem_m_axi
+fast_accel

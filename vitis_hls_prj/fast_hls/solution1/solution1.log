@@ -1,0 +1,1667 @@
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg400-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7z020clg400-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s).
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 1.415 seconds; current allocated memory: 158.729 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg400-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7z020clg400-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s).
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.815 seconds; current allocated memory: 158.718 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg400-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7z020clg400-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 1.981 seconds; current allocated memory: 158.686 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg400-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7z020clg400-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 1.168 seconds; current allocated memory: 158.679 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg400-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7z020clg400-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 1.331 seconds; current allocated memory: 158.680 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg400-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7z020clg400-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1510] Running: csynth_design 
+INFO: [HLS 200-111] Finished File checks and directory preparation: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.086 seconds; current allocated memory: 938.225 MB.
+INFO: [HLS 200-10] Analyzing design file 'fast_hls/sources/fast.cpp' ... 
+WARNING: [HLS 207-5301] unused parameter 'rows': fast_hls/sources/fast.cpp:36:63
+WARNING: [HLS 207-1017] unknown pragma ignored: fast_hls/sources/fast.cpp:49:9
+WARNING: [HLS 207-5301] unused parameter 'rows': fast_hls/sources/fast.cpp:47:63
+WARNING: [HLS 207-1017] unknown pragma ignored: fast_hls/sources/fast.cpp:68:9
+INFO: [HLS 200-111] Finished Source Code Analysis and Preprocessing: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.668 seconds; current allocated memory: 160.004 MB.
+INFO: [HLS 200-777] Using interface defaults for 'Vivado' flow target.
+INFO: [HLS 214-178] Inlining function 'check_thres(int, int, int)' into 'check_pre(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:37:0)
+INFO: [HLS 214-178] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:48:0)
+INFO: [HLS 214-178] Inlining function 'check_pre(int*, int, int, int, int, int)' into 'fast_accel(int*, int, int*, int, int)' (fast_hls/sources/fast.cpp:4:0)
+WARNING: [HLS 214-205] The INTERFACE pragma must have a max_widen_bitwidth setting that is both a power of 2 and in the range [0, 1024]. The current value of '0' will be ignored, in 'fast_accel(int*, int, int*, int, int)' (fast_hls/sources/fast.cpp:4:0)
+WARNING: [HLS 214-205] The INTERFACE pragma must have a max_widen_bitwidth setting that is both a power of 2 and in the range [0, 1024]. The current value of '0' will be ignored, in 'fast_accel(int*, int, int*, int, int)' (fast_hls/sources/fast.cpp:4:0)
+INFO: [HLS 200-111] Finished Compiling Optimization and Transform: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 4.057 seconds; current allocated memory: 161.454 MB.
+INFO: [HLS 200-111] Finished Checking Pragmas: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.074 seconds; current allocated memory: 161.455 MB.
+INFO: [HLS 200-10] Starting code transformations ...
+INFO: [HLS 200-111] Finished Standard Transforms: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.147 seconds; current allocated memory: 162.847 MB.
+INFO: [HLS 200-10] Checking synthesizability ...
+INFO: [HLS 200-111] Finished Checking Synthesizability: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.125 seconds; current allocated memory: 162.108 MB.
+INFO: [XFORM 203-502] Unrolling all sub-loops inside loop 'VITIS_LOOP_14_1' (fast_hls/sources/fast.cpp:14) in function 'fast_accel' for pipelining.
+WARNING: [XFORM 203-503] Ignored partial unroll directive for loop 'VITIS_LOOP_16_2' (fast_hls/sources/fast.cpp:16) because its parent loop or function is pipelined.
+WARNING: [HLS 200-936] Cannot unroll loop 'VITIS_LOOP_16_2' (fast_hls/sources/fast.cpp:16) in function 'fast_accel': cannot completely unroll a loop with a variable trip count.
+INFO: [XFORM 203-11] Balancing expressions in function 'fast_accel' (fast_hls/sources/fast.cpp:3)...3 expression(s) balanced.
+INFO: [XFORM 203-11] Balancing expressions in function 'check_for' (fast_hls/sources/fast.cpp:50:2)...11 expression(s) balanced.
+INFO: [HLS 200-111] Finished Loop, function and other optimizations: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.288 seconds; current allocated memory: 182.951 MB.
+INFO: [XFORM 203-541] Flattening a loop nest 'VITIS_LOOP_14_1' (fast_hls/sources/fast.cpp:14:28) in function 'fast_accel'.
+INFO: [HLS 200-111] Finished Architecture Synthesis: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.347 seconds; current allocated memory: 186.189 MB.
+INFO: [HLS 200-10] Starting hardware synthesis ...
+INFO: [HLS 200-10] Synthesizing 'fast_accel' ...
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'check_for' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining function 'check_for'.
+WARNING: [HLS 200-885] Unable to schedule bus request on port 'gmem' (fast_hls/sources/fast.cpp:51) due to limited memory ports. Please consider using a memory core with more ports or partitioning the array.
+INFO: [HLS 200-1470] Pipelining result : Target II = 1, Final II = 13, Depth = 27, function 'check_for'
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111] Finished Scheduling: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.366 seconds; current allocated memory: 187.013 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111] Finished Binding: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.324 seconds; current allocated memory: 187.799 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'fast_accel' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining loop 'VITIS_LOOP_14_1_VITIS_LOOP_16_2'.
+WARNING: [HLS 200-880] The II Violation in module 'fast_accel' (loop 'VITIS_LOOP_14_1_VITIS_LOOP_16_2'): Unable to enforce a carried dependence constraint (II = 13, distance = 1, offset = 1) between 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for' and bus request on port 'gmem' (fast_hls/sources/fast.cpp:38).
+WARNING: [HLS 200-875] II = 14 is infeasible due to multiple pipeline iteration latency = 27 and incompatible II = 13 of 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for'.
+WARNING: [HLS 200-875] II = 15 is infeasible due to multiple pipeline iteration latency = 27 and incompatible II = 13 of 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for'.
+WARNING: [HLS 200-875] II = 16 is infeasible due to multiple pipeline iteration latency = 27 and incompatible II = 13 of 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for'.
+WARNING: [HLS 200-875] II = 17 is infeasible due to multiple pipeline iteration latency = 27 and incompatible II = 13 of 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for'.
+WARNING: [HLS 200-875] II = 18 is infeasible due to multiple pipeline iteration latency = 27 and incompatible II = 13 of 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for'.
+WARNING: [HLS 200-875] II = 19 is infeasible due to multiple pipeline iteration latency = 27 and incompatible II = 13 of 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for'.
+WARNING: [HLS 200-875] II = 20 is infeasible due to multiple pipeline iteration latency = 27 and incompatible II = 13 of 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for'.
+WARNING: [HLS 200-875] II = 21 is infeasible due to multiple pipeline iteration latency = 27 and incompatible II = 13 of 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for'.
+WARNING: [HLS 200-875] II = 22 is infeasible due to multiple pipeline iteration latency = 27 and incompatible II = 13 of 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for'.
+WARNING: [HLS 200-875] II = 23 is infeasible due to multiple pipeline iteration latency = 27 and incompatible II = 13 of 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for'.
+WARNING: [HLS 200-875] II = 24 is infeasible due to multiple pipeline iteration latency = 27 and incompatible II = 13 of 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for'.
+WARNING: [HLS 200-875] II = 25 is infeasible due to multiple pipeline iteration latency = 27 and incompatible II = 13 of 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for'.
+WARNING: [HLS 200-880] The II Violation in module 'fast_accel' (loop 'VITIS_LOOP_14_1_VITIS_LOOP_16_2'): Unable to enforce a carried dependence constraint (II = 26, distance = 1, offset = 1) between 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for' and bus request on port 'gmem' (fast_hls/sources/fast.cpp:38).
+WARNING: [HLS 200-880] The II Violation in module 'fast_accel' (loop 'VITIS_LOOP_14_1_VITIS_LOOP_16_2'): Unable to enforce a carried dependence constraint (II = 27, distance = 1, offset = 1) between 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for' and bus request on port 'gmem' (fast_hls/sources/fast.cpp:38).
+WARNING: [HLS 200-880] The II Violation in module 'fast_accel' (loop 'VITIS_LOOP_14_1_VITIS_LOOP_16_2'): Unable to enforce a carried dependence constraint (II = 28, distance = 1, offset = 1) between 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for' and bus request on port 'gmem' (fast_hls/sources/fast.cpp:38).
+WARNING: [HLS 200-880] The II Violation in module 'fast_accel' (loop 'VITIS_LOOP_14_1_VITIS_LOOP_16_2'): Unable to enforce a carried dependence constraint (II = 35, distance = 1, offset = 1) between 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for' and bus request on port 'gmem' (fast_hls/sources/fast.cpp:38).
+WARNING: [HLS 200-880] The II Violation in module 'fast_accel' (loop 'VITIS_LOOP_14_1_VITIS_LOOP_16_2'): Unable to enforce a carried dependence constraint (II = 38, distance = 1, offset = 1) between 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for' and bus request on port 'gmem' (fast_hls/sources/fast.cpp:38).
+INFO: [HLS 200-1470] Pipelining result : Target II = 1, Final II = 39, Depth = 52, loop 'VITIS_LOOP_14_1_VITIS_LOOP_16_2'
+WARNING: [HLS 200-871] Estimated clock period (16.5855ns) exceeds the target (target clock period: 10ns, clock uncertainty: 2.7ns, effective delay budget: 7.3ns).
+WARNING: [HLS 200-1016] The critical path in module 'fast_accel' consists of the following:	bus read on port 'gmem' (fast_hls/sources/fast.cpp:42) [148]  (7.3 ns)
+	'sub' operation ('sub_ln69_3', fast_hls/sources/fast.cpp:69) [149]  (2.55 ns)
+	'icmp' operation ('icmp_ln69_2', fast_hls/sources/fast.cpp:69) [150]  (2.47 ns)
+	'add' operation ('add_ln42_2', fast_hls/sources/fast.cpp:42) [154]  (1.56 ns)
+	'add' operation ('count_pre', fast_hls/sources/fast.cpp:42) [156]  (1.56 ns)
+	'icmp' operation ('icmp_ln21', fast_hls/sources/fast.cpp:21) [158]  (1.13 ns)
+
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111] Finished Scheduling: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.59 seconds; current allocated memory: 188.389 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111] Finished Binding: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.412 seconds; current allocated memory: 189.273 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'check_for' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [RTGEN 206-100] Generating core module 'mul_32s_32s_32_2_1': 7 instance(s).
+INFO: [RTGEN 206-100] Finished creating RTL model for 'check_for'.
+INFO: [HLS 200-111] Finished Creating RTL model: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.548 seconds; current allocated memory: 190.955 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'fast_accel' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+WARNING: [RTGEN 206-101] Design contains AXI ports. Reset is fixed to synchronous and active low.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/gmem' to 'm_axi'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/img_in' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/threshold' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/img_out' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/rows' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/cols' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on function 'fast_accel' to 's_axilite & ap_ctrl_hs'.
+INFO: [RTGEN 206-100] Bundling port 'threshold', 'rows', 'cols' and 'return' to AXI-Lite port CTRL.
+INFO: [RTGEN 206-100] Bundling port 'img_in' and 'img_out' to AXI-Lite port control.
+INFO: [RTGEN 206-100] Generating core module 'mul_32ns_32ns_64_2_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'mul_32ns_32s_62_2_1': 3 instance(s).
+INFO: [RTGEN 206-100] Finished creating RTL model for 'fast_accel'.
+INFO: [HLS 200-111] Finished Creating RTL model: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.975 seconds; current allocated memory: 196.472 MB.
+INFO: [RTMG 210-282] Generating pipelined core: 'fast_accel_mul_32s_32s_32_2_1_Multiplier_0'
+INFO: [RTMG 210-282] Generating pipelined core: 'fast_accel_mul_32ns_32ns_64_2_1_Multiplier_1'
+INFO: [RTMG 210-282] Generating pipelined core: 'fast_accel_mul_32ns_32s_62_2_1_Multiplier_2'
+INFO: [HLS 200-111] Finished Generating all RTL models: CPU user time: 2 seconds. CPU system time: 1 seconds. Elapsed time: 2.845 seconds; current allocated memory: 207.277 MB.
+INFO: [VHDL 208-304] Generating VHDL RTL for fast_accel.
+INFO: [VLOG 209-307] Generating Verilog RTL for fast_accel.
+INFO: [HLS 200-790] **** Loop Constraint Status: All loop constraints were NOT satisfied.
+INFO: [HLS 200-789] **** Estimated Fmax: 60.29 MHz
+INFO: [HLS 200-111] Finished Command csynth_design CPU user time: 7 seconds. CPU system time: 1 seconds. Elapsed time: 12.104 seconds; current allocated memory: 207.872 MB.
+INFO: [HLS 200-112] Total CPU user time: 10 seconds. Total CPU system time: 2 seconds. Total elapsed time: 13.983 seconds; peak allocated memory: 938.225 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 20ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg400-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7z020clg400-1 
+INFO: [HLS 200-1510] Running: create_clock -period 20 -name default 
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 20ns.
+INFO: [HLS 200-1510] Running: csynth_design 
+INFO: [HLS 200-111] Finished File checks and directory preparation: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.073 seconds; current allocated memory: 938.255 MB.
+INFO: [HLS 200-10] Analyzing design file 'fast_hls/sources/fast.cpp' ... 
+WARNING: [HLS 207-5301] unused parameter 'rows': fast_hls/sources/fast.cpp:36:63
+WARNING: [HLS 207-1017] unknown pragma ignored: fast_hls/sources/fast.cpp:49:9
+WARNING: [HLS 207-5301] unused parameter 'rows': fast_hls/sources/fast.cpp:47:63
+WARNING: [HLS 207-1017] unknown pragma ignored: fast_hls/sources/fast.cpp:68:9
+INFO: [HLS 200-111] Finished Source Code Analysis and Preprocessing: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.621 seconds; current allocated memory: 160.021 MB.
+INFO: [HLS 200-777] Using interface defaults for 'Vivado' flow target.
+INFO: [HLS 214-178] Inlining function 'check_thres(int, int, int)' into 'check_pre(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:37:0)
+INFO: [HLS 214-178] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:48:0)
+INFO: [HLS 214-178] Inlining function 'check_pre(int*, int, int, int, int, int)' into 'fast_accel(int*, int, int*, int, int)' (fast_hls/sources/fast.cpp:4:0)
+WARNING: [HLS 214-205] The INTERFACE pragma must have a max_widen_bitwidth setting that is both a power of 2 and in the range [0, 1024]. The current value of '0' will be ignored, in 'fast_accel(int*, int, int*, int, int)' (fast_hls/sources/fast.cpp:4:0)
+WARNING: [HLS 214-205] The INTERFACE pragma must have a max_widen_bitwidth setting that is both a power of 2 and in the range [0, 1024]. The current value of '0' will be ignored, in 'fast_accel(int*, int, int*, int, int)' (fast_hls/sources/fast.cpp:4:0)
+INFO: [HLS 200-111] Finished Compiling Optimization and Transform: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 3.969 seconds; current allocated memory: 161.484 MB.
+INFO: [HLS 200-111] Finished Checking Pragmas: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.074 seconds; current allocated memory: 161.485 MB.
+INFO: [HLS 200-10] Starting code transformations ...
+INFO: [HLS 200-111] Finished Standard Transforms: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.116 seconds; current allocated memory: 162.877 MB.
+INFO: [HLS 200-10] Checking synthesizability ...
+INFO: [HLS 200-111] Finished Checking Synthesizability: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.136 seconds; current allocated memory: 162.138 MB.
+INFO: [XFORM 203-502] Unrolling all sub-loops inside loop 'VITIS_LOOP_14_1' (fast_hls/sources/fast.cpp:14) in function 'fast_accel' for pipelining.
+WARNING: [XFORM 203-503] Ignored partial unroll directive for loop 'VITIS_LOOP_16_2' (fast_hls/sources/fast.cpp:16) because its parent loop or function is pipelined.
+WARNING: [HLS 200-936] Cannot unroll loop 'VITIS_LOOP_16_2' (fast_hls/sources/fast.cpp:16) in function 'fast_accel': cannot completely unroll a loop with a variable trip count.
+INFO: [XFORM 203-11] Balancing expressions in function 'fast_accel' (fast_hls/sources/fast.cpp:3)...3 expression(s) balanced.
+INFO: [XFORM 203-11] Balancing expressions in function 'check_for' (fast_hls/sources/fast.cpp:50:2)...11 expression(s) balanced.
+INFO: [HLS 200-111] Finished Loop, function and other optimizations: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.319 seconds; current allocated memory: 182.981 MB.
+INFO: [XFORM 203-541] Flattening a loop nest 'VITIS_LOOP_14_1' (fast_hls/sources/fast.cpp:14:28) in function 'fast_accel'.
+INFO: [HLS 200-111] Finished Architecture Synthesis: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.356 seconds; current allocated memory: 186.190 MB.
+INFO: [HLS 200-10] Starting hardware synthesis ...
+INFO: [HLS 200-10] Synthesizing 'fast_accel' ...
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'check_for' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining function 'check_for'.
+WARNING: [HLS 200-885] Unable to schedule bus request on port 'gmem' (fast_hls/sources/fast.cpp:51) due to limited memory ports. Please consider using a memory core with more ports or partitioning the array.
+INFO: [HLS 200-1470] Pipelining result : Target II = 1, Final II = 13, Depth = 24, function 'check_for'
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111] Finished Scheduling: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.379 seconds; current allocated memory: 187.005 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111] Finished Binding: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.34 seconds; current allocated memory: 187.756 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'fast_accel' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining loop 'VITIS_LOOP_14_1_VITIS_LOOP_16_2'.
+WARNING: [HLS 200-880] The II Violation in module 'fast_accel' (loop 'VITIS_LOOP_14_1_VITIS_LOOP_16_2'): Unable to enforce a carried dependence constraint (II = 13, distance = 1, offset = 1) between 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for' and bus request on port 'gmem' (fast_hls/sources/fast.cpp:38).
+WARNING: [HLS 200-875] II = 14 is infeasible due to multiple pipeline iteration latency = 24 and incompatible II = 13 of 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for'.
+WARNING: [HLS 200-875] II = 15 is infeasible due to multiple pipeline iteration latency = 24 and incompatible II = 13 of 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for'.
+WARNING: [HLS 200-875] II = 16 is infeasible due to multiple pipeline iteration latency = 24 and incompatible II = 13 of 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for'.
+WARNING: [HLS 200-875] II = 17 is infeasible due to multiple pipeline iteration latency = 24 and incompatible II = 13 of 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for'.
+WARNING: [HLS 200-875] II = 18 is infeasible due to multiple pipeline iteration latency = 24 and incompatible II = 13 of 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for'.
+WARNING: [HLS 200-875] II = 19 is infeasible due to multiple pipeline iteration latency = 24 and incompatible II = 13 of 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for'.
+WARNING: [HLS 200-875] II = 20 is infeasible due to multiple pipeline iteration latency = 24 and incompatible II = 13 of 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for'.
+WARNING: [HLS 200-875] II = 21 is infeasible due to multiple pipeline iteration latency = 24 and incompatible II = 13 of 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for'.
+WARNING: [HLS 200-875] II = 22 is infeasible due to multiple pipeline iteration latency = 24 and incompatible II = 13 of 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for'.
+WARNING: [HLS 200-875] II = 23 is infeasible due to multiple pipeline iteration latency = 24 and incompatible II = 13 of 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for'.
+WARNING: [HLS 200-880] The II Violation in module 'fast_accel' (loop 'VITIS_LOOP_14_1_VITIS_LOOP_16_2'): Unable to enforce a carried dependence constraint (II = 24, distance = 1, offset = 1) between 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for' and bus request on port 'gmem' (fast_hls/sources/fast.cpp:38).
+WARNING: [HLS 200-880] The II Violation in module 'fast_accel' (loop 'VITIS_LOOP_14_1_VITIS_LOOP_16_2'): Unable to enforce a carried dependence constraint (II = 25, distance = 1, offset = 1) between 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for' and bus request on port 'gmem' (fast_hls/sources/fast.cpp:38).
+WARNING: [HLS 200-880] The II Violation in module 'fast_accel' (loop 'VITIS_LOOP_14_1_VITIS_LOOP_16_2'): Unable to enforce a carried dependence constraint (II = 26, distance = 1, offset = 1) between 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for' and bus request on port 'gmem' (fast_hls/sources/fast.cpp:38).
+WARNING: [HLS 200-880] The II Violation in module 'fast_accel' (loop 'VITIS_LOOP_14_1_VITIS_LOOP_16_2'): Unable to enforce a carried dependence constraint (II = 33, distance = 1, offset = 1) between 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for' and bus request on port 'gmem' (fast_hls/sources/fast.cpp:38).
+WARNING: [HLS 200-880] The II Violation in module 'fast_accel' (loop 'VITIS_LOOP_14_1_VITIS_LOOP_16_2'): Unable to enforce a carried dependence constraint (II = 34, distance = 1, offset = 1) between 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for' and bus request on port 'gmem' (fast_hls/sources/fast.cpp:38).
+WARNING: [HLS 200-880] The II Violation in module 'fast_accel' (loop 'VITIS_LOOP_14_1_VITIS_LOOP_16_2'): Unable to enforce a carried dependence constraint (II = 35, distance = 1, offset = 1) between 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for' and bus request on port 'gmem' (fast_hls/sources/fast.cpp:38).
+INFO: [HLS 200-1470] Pipelining result : Target II = 1, Final II = 36, Depth = 46, loop 'VITIS_LOOP_14_1_VITIS_LOOP_16_2'
+WARNING: [HLS 200-871] Estimated clock period (23.8855ns) exceeds the target (target clock period: 20ns, clock uncertainty: 5.4ns, effective delay budget: 14.6ns).
+WARNING: [HLS 200-1016] The critical path in module 'fast_accel' consists of the following:	bus read on port 'gmem' (fast_hls/sources/fast.cpp:42) [148]  (14.6 ns)
+	'sub' operation ('sub_ln69_3', fast_hls/sources/fast.cpp:69) [149]  (2.55 ns)
+	'icmp' operation ('icmp_ln69_2', fast_hls/sources/fast.cpp:69) [150]  (2.47 ns)
+	'add' operation ('add_ln42_2', fast_hls/sources/fast.cpp:42) [154]  (1.56 ns)
+	'add' operation ('count_pre', fast_hls/sources/fast.cpp:42) [156]  (1.56 ns)
+	'icmp' operation ('icmp_ln21', fast_hls/sources/fast.cpp:21) [158]  (1.13 ns)
+
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111] Finished Scheduling: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.682 seconds; current allocated memory: 188.360 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111] Finished Binding: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.436 seconds; current allocated memory: 189.211 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'check_for' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [RTGEN 206-100] Generating core module 'mul_32s_32s_32_1_1': 7 instance(s).
+INFO: [RTGEN 206-100] Finished creating RTL model for 'check_for'.
+INFO: [HLS 200-111] Finished Creating RTL model: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.57 seconds; current allocated memory: 190.800 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'fast_accel' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+WARNING: [RTGEN 206-101] Design contains AXI ports. Reset is fixed to synchronous and active low.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/gmem' to 'm_axi'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/img_in' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/threshold' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/img_out' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/rows' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/cols' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on function 'fast_accel' to 's_axilite & ap_ctrl_hs'.
+INFO: [RTGEN 206-100] Bundling port 'threshold', 'rows', 'cols' and 'return' to AXI-Lite port CTRL.
+INFO: [RTGEN 206-100] Bundling port 'img_in' and 'img_out' to AXI-Lite port control.
+INFO: [RTGEN 206-100] Generating core module 'mul_32ns_32ns_64_1_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'mul_32ns_32s_62_1_1': 3 instance(s).
+INFO: [RTGEN 206-100] Finished creating RTL model for 'fast_accel'.
+INFO: [HLS 200-111] Finished Creating RTL model: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 1.077 seconds; current allocated memory: 196.151 MB.
+INFO: [RTMG 210-282] Generating pipelined core: 'fast_accel_mul_32s_32s_32_1_1_Multiplier_0'
+INFO: [RTMG 210-282] Generating pipelined core: 'fast_accel_mul_32ns_32ns_64_1_1_Multiplier_1'
+INFO: [RTMG 210-282] Generating pipelined core: 'fast_accel_mul_32ns_32s_62_1_1_Multiplier_2'
+INFO: [HLS 200-111] Finished Generating all RTL models: CPU user time: 3 seconds. CPU system time: 1 seconds. Elapsed time: 3.158 seconds; current allocated memory: 206.923 MB.
+INFO: [VHDL 208-304] Generating VHDL RTL for fast_accel.
+INFO: [VLOG 209-307] Generating Verilog RTL for fast_accel.
+INFO: [HLS 200-790] **** Loop Constraint Status: All loop constraints were NOT satisfied.
+INFO: [HLS 200-789] **** Estimated Fmax: 41.87 MHz
+INFO: [HLS 200-111] Finished Command csynth_design CPU user time: 8 seconds. CPU system time: 1 seconds. Elapsed time: 12.578 seconds; current allocated memory: 207.547 MB.
+INFO: [HLS 200-112] Total CPU user time: 10 seconds. Total CPU system time: 2 seconds. Total elapsed time: 14.531 seconds; peak allocated memory: 938.255 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 20ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg400-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7z020clg400-1 
+INFO: [HLS 200-1510] Running: create_clock -period 20 -name default 
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 20ns.
+INFO: [HLS 200-1510] Running: cosim_design 
+INFO: [COSIM 212-47] Using XSIM for RTL simulation.
+INFO: [COSIM 212-14] Instrumenting C test bench ...
+WARNING: [COSIM 212-369] AXI_master port 'img_in' has a depth of '0'. Insufficient depth may result in simulation mismatch or freeze.
+WARNING: [COSIM 212-369] AXI_master port 'img_out' has a depth of '0'. Insufficient depth may result in simulation mismatch or freeze.
+INFO: [COSIM 212-302] Starting C TB testing ... 
+ERROR: [COSIM 212-360] Aborting co-simulation: C TB simulation failed.
+ERROR: [COSIM 212-320] C TB testing failed, stop generating test vectors. Please check C TB or re-run cosim.
+ERROR: [COSIM 212-5] *** C/RTL co-simulation file generation failed. ***
+ERROR: [COSIM 212-4] *** C/RTL co-simulation finished: FAIL ***
+INFO: [HLS 200-111] Finished Command cosim_design CPU user time: 2 seconds. CPU system time: 0 seconds. Elapsed time: 7.219 seconds; current allocated memory: 162.006 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 50ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg400-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7z020clg400-1 
+INFO: [HLS 200-1510] Running: create_clock -period 50 -name default 
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 50ns.
+INFO: [HLS 200-1510] Running: csynth_design 
+INFO: [HLS 200-111] Finished File checks and directory preparation: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.087 seconds; current allocated memory: 938.255 MB.
+INFO: [HLS 200-10] Analyzing design file 'fast_hls/sources/fast.cpp' ... 
+WARNING: [HLS 207-5301] unused parameter 'rows': fast_hls/sources/fast.cpp:36:63
+WARNING: [HLS 207-1017] unknown pragma ignored: fast_hls/sources/fast.cpp:49:9
+WARNING: [HLS 207-5301] unused parameter 'rows': fast_hls/sources/fast.cpp:47:63
+WARNING: [HLS 207-1017] unknown pragma ignored: fast_hls/sources/fast.cpp:68:9
+INFO: [HLS 200-111] Finished Source Code Analysis and Preprocessing: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.658 seconds; current allocated memory: 160.021 MB.
+INFO: [HLS 200-777] Using interface defaults for 'Vivado' flow target.
+INFO: [HLS 214-178] Inlining function 'check_thres(int, int, int)' into 'check_pre(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:37:0)
+INFO: [HLS 214-178] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:48:0)
+INFO: [HLS 214-178] Inlining function 'check_pre(int*, int, int, int, int, int)' into 'fast_accel(int*, int, int*, int, int)' (fast_hls/sources/fast.cpp:4:0)
+WARNING: [HLS 214-205] The INTERFACE pragma must have a max_widen_bitwidth setting that is both a power of 2 and in the range [0, 1024]. The current value of '0' will be ignored, in 'fast_accel(int*, int, int*, int, int)' (fast_hls/sources/fast.cpp:4:0)
+WARNING: [HLS 214-205] The INTERFACE pragma must have a max_widen_bitwidth setting that is both a power of 2 and in the range [0, 1024]. The current value of '0' will be ignored, in 'fast_accel(int*, int, int*, int, int)' (fast_hls/sources/fast.cpp:4:0)
+INFO: [HLS 200-111] Finished Compiling Optimization and Transform: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 4.188 seconds; current allocated memory: 161.484 MB.
+INFO: [HLS 200-111] Finished Checking Pragmas: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.069 seconds; current allocated memory: 161.485 MB.
+INFO: [HLS 200-10] Starting code transformations ...
+INFO: [HLS 200-111] Finished Standard Transforms: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.106 seconds; current allocated memory: 162.877 MB.
+INFO: [HLS 200-10] Checking synthesizability ...
+INFO: [HLS 200-111] Finished Checking Synthesizability: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.117 seconds; current allocated memory: 162.138 MB.
+INFO: [XFORM 203-502] Unrolling all sub-loops inside loop 'VITIS_LOOP_14_1' (fast_hls/sources/fast.cpp:14) in function 'fast_accel' for pipelining.
+WARNING: [XFORM 203-503] Ignored partial unroll directive for loop 'VITIS_LOOP_16_2' (fast_hls/sources/fast.cpp:16) because its parent loop or function is pipelined.
+WARNING: [HLS 200-936] Cannot unroll loop 'VITIS_LOOP_16_2' (fast_hls/sources/fast.cpp:16) in function 'fast_accel': cannot completely unroll a loop with a variable trip count.
+INFO: [XFORM 203-11] Balancing expressions in function 'fast_accel' (fast_hls/sources/fast.cpp:3)...3 expression(s) balanced.
+INFO: [XFORM 203-11] Balancing expressions in function 'check_for' (fast_hls/sources/fast.cpp:50:2)...11 expression(s) balanced.
+INFO: [HLS 200-111] Finished Loop, function and other optimizations: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.28 seconds; current allocated memory: 182.981 MB.
+INFO: [XFORM 203-541] Flattening a loop nest 'VITIS_LOOP_14_1' (fast_hls/sources/fast.cpp:14:28) in function 'fast_accel'.
+INFO: [HLS 200-111] Finished Architecture Synthesis: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.312 seconds; current allocated memory: 186.190 MB.
+INFO: [HLS 200-10] Starting hardware synthesis ...
+INFO: [HLS 200-10] Synthesizing 'fast_accel' ...
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'check_for' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining function 'check_for'.
+WARNING: [HLS 200-885] Unable to schedule bus request on port 'gmem' (fast_hls/sources/fast.cpp:51) due to limited memory ports. Please consider using a memory core with more ports or partitioning the array.
+INFO: [HLS 200-1470] Pipelining result : Target II = 1, Final II = 13, Depth = 22, function 'check_for'
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111] Finished Scheduling: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.34 seconds; current allocated memory: 187.002 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111] Finished Binding: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.294 seconds; current allocated memory: 187.745 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'fast_accel' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining loop 'VITIS_LOOP_14_1_VITIS_LOOP_16_2'.
+WARNING: [HLS 200-880] The II Violation in module 'fast_accel' (loop 'VITIS_LOOP_14_1_VITIS_LOOP_16_2'): Unable to enforce a carried dependence constraint (II = 13, distance = 1, offset = 1) between 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for' and bus request on port 'gmem' (fast_hls/sources/fast.cpp:38).
+WARNING: [HLS 200-875] II = 14 is infeasible due to multiple pipeline iteration latency = 22 and incompatible II = 13 of 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for'.
+WARNING: [HLS 200-875] II = 15 is infeasible due to multiple pipeline iteration latency = 22 and incompatible II = 13 of 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for'.
+WARNING: [HLS 200-875] II = 16 is infeasible due to multiple pipeline iteration latency = 22 and incompatible II = 13 of 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for'.
+WARNING: [HLS 200-875] II = 17 is infeasible due to multiple pipeline iteration latency = 22 and incompatible II = 13 of 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for'.
+WARNING: [HLS 200-875] II = 18 is infeasible due to multiple pipeline iteration latency = 22 and incompatible II = 13 of 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for'.
+WARNING: [HLS 200-875] II = 19 is infeasible due to multiple pipeline iteration latency = 22 and incompatible II = 13 of 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for'.
+WARNING: [HLS 200-875] II = 20 is infeasible due to multiple pipeline iteration latency = 22 and incompatible II = 13 of 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for'.
+WARNING: [HLS 200-875] II = 21 is infeasible due to multiple pipeline iteration latency = 22 and incompatible II = 13 of 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for'.
+WARNING: [HLS 200-880] The II Violation in module 'fast_accel' (loop 'VITIS_LOOP_14_1_VITIS_LOOP_16_2'): Unable to enforce a carried dependence constraint (II = 22, distance = 1, offset = 1) between 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for' and bus request on port 'gmem' (fast_hls/sources/fast.cpp:38).
+WARNING: [HLS 200-880] The II Violation in module 'fast_accel' (loop 'VITIS_LOOP_14_1_VITIS_LOOP_16_2'): Unable to enforce a carried dependence constraint (II = 23, distance = 1, offset = 1) between 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for' and bus request on port 'gmem' (fast_hls/sources/fast.cpp:38).
+WARNING: [HLS 200-880] The II Violation in module 'fast_accel' (loop 'VITIS_LOOP_14_1_VITIS_LOOP_16_2'): Unable to enforce a carried dependence constraint (II = 24, distance = 1, offset = 1) between 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for' and bus request on port 'gmem' (fast_hls/sources/fast.cpp:38).
+WARNING: [HLS 200-880] The II Violation in module 'fast_accel' (loop 'VITIS_LOOP_14_1_VITIS_LOOP_16_2'): Unable to enforce a carried dependence constraint (II = 31, distance = 1, offset = 1) between 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for' and bus request on port 'gmem' (fast_hls/sources/fast.cpp:38).
+WARNING: [HLS 200-880] The II Violation in module 'fast_accel' (loop 'VITIS_LOOP_14_1_VITIS_LOOP_16_2'): Unable to enforce a carried dependence constraint (II = 32, distance = 1, offset = 1) between 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for' and bus request on port 'gmem' (fast_hls/sources/fast.cpp:38).
+WARNING: [HLS 200-880] The II Violation in module 'fast_accel' (loop 'VITIS_LOOP_14_1_VITIS_LOOP_16_2'): Unable to enforce a carried dependence constraint (II = 33, distance = 1, offset = 1) between 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for' and bus request on port 'gmem' (fast_hls/sources/fast.cpp:38).
+INFO: [HLS 200-1470] Pipelining result : Target II = 1, Final II = 34, Depth = 43, loop 'VITIS_LOOP_14_1_VITIS_LOOP_16_2'
+WARNING: [HLS 200-871] Estimated clock period (45.7855ns) exceeds the target (target clock period: 50ns, clock uncertainty: 13.5ns, effective delay budget: 36.5ns).
+WARNING: [HLS 200-1016] The critical path in module 'fast_accel' consists of the following:	bus read on port 'gmem' (fast_hls/sources/fast.cpp:42) [148]  (36.5 ns)
+	'sub' operation ('sub_ln69_3', fast_hls/sources/fast.cpp:69) [149]  (2.55 ns)
+	'icmp' operation ('icmp_ln69_2', fast_hls/sources/fast.cpp:69) [150]  (2.47 ns)
+	'add' operation ('add_ln42_2', fast_hls/sources/fast.cpp:42) [154]  (1.56 ns)
+	'add' operation ('count_pre', fast_hls/sources/fast.cpp:42) [156]  (1.56 ns)
+	'icmp' operation ('icmp_ln21', fast_hls/sources/fast.cpp:21) [158]  (1.13 ns)
+
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111] Finished Scheduling: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.587 seconds; current allocated memory: 188.342 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111] Finished Binding: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.389 seconds; current allocated memory: 189.174 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'check_for' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [RTGEN 206-100] Generating core module 'mul_32s_32s_32_1_1': 7 instance(s).
+INFO: [RTGEN 206-100] Finished creating RTL model for 'check_for'.
+INFO: [HLS 200-111] Finished Creating RTL model: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.511 seconds; current allocated memory: 190.742 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'fast_accel' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+WARNING: [RTGEN 206-101] Design contains AXI ports. Reset is fixed to synchronous and active low.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/gmem' to 'm_axi'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/img_in' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/threshold' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/img_out' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/rows' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/cols' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on function 'fast_accel' to 's_axilite & ap_ctrl_hs'.
+INFO: [RTGEN 206-100] Bundling port 'threshold', 'rows', 'cols' and 'return' to AXI-Lite port CTRL.
+INFO: [RTGEN 206-100] Bundling port 'img_in' and 'img_out' to AXI-Lite port control.
+INFO: [RTGEN 206-100] Generating core module 'mul_32ns_32ns_64_1_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'mul_32ns_32s_62_1_1': 3 instance(s).
+INFO: [RTGEN 206-100] Finished creating RTL model for 'fast_accel'.
+INFO: [HLS 200-111] Finished Creating RTL model: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.954 seconds; current allocated memory: 195.957 MB.
+INFO: [RTMG 210-282] Generating pipelined core: 'fast_accel_mul_32s_32s_32_1_1_Multiplier_0'
+INFO: [RTMG 210-282] Generating pipelined core: 'fast_accel_mul_32ns_32ns_64_1_1_Multiplier_1'
+INFO: [RTMG 210-282] Generating pipelined core: 'fast_accel_mul_32ns_32s_62_1_1_Multiplier_2'
+INFO: [HLS 200-111] Finished Generating all RTL models: CPU user time: 2 seconds. CPU system time: 1 seconds. Elapsed time: 2.842 seconds; current allocated memory: 206.702 MB.
+INFO: [VHDL 208-304] Generating VHDL RTL for fast_accel.
+INFO: [VLOG 209-307] Generating Verilog RTL for fast_accel.
+INFO: [HLS 200-790] **** Loop Constraint Status: All loop constraints were NOT satisfied.
+INFO: [HLS 200-789] **** Estimated Fmax: 21.84 MHz
+INFO: [HLS 200-111] Finished Command csynth_design CPU user time: 7 seconds. CPU system time: 1 seconds. Elapsed time: 11.981 seconds; current allocated memory: 207.325 MB.
+INFO: [HLS 200-112] Total CPU user time: 9 seconds. Total CPU system time: 2 seconds. Total elapsed time: 13.833 seconds; peak allocated memory: 938.255 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg400-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7z020clg400-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1510] Running: csynth_design 
+INFO: [HLS 200-111] Finished File checks and directory preparation: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.079 seconds; current allocated memory: 938.255 MB.
+INFO: [HLS 200-10] Analyzing design file 'fast_hls/sources/fast.cpp' ... 
+WARNING: [HLS 207-5301] unused parameter 'rows': fast_hls/sources/fast.cpp:36:63
+WARNING: [HLS 207-1017] unknown pragma ignored: fast_hls/sources/fast.cpp:49:9
+WARNING: [HLS 207-5301] unused parameter 'rows': fast_hls/sources/fast.cpp:47:63
+WARNING: [HLS 207-1017] unknown pragma ignored: fast_hls/sources/fast.cpp:68:9
+INFO: [HLS 200-111] Finished Source Code Analysis and Preprocessing: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.61 seconds; current allocated memory: 160.005 MB.
+INFO: [HLS 200-777] Using interface defaults for 'Vivado' flow target.
+INFO: [HLS 214-178] Inlining function 'check_thres(int, int, int)' into 'check_pre(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:37:0)
+INFO: [HLS 214-178] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:48:0)
+INFO: [HLS 214-178] Inlining function 'check_pre(int*, int, int, int, int, int)' into 'fast_accel(int*, int, int*, int, int)' (fast_hls/sources/fast.cpp:4:0)
+WARNING: [HLS 214-205] The INTERFACE pragma must have a max_widen_bitwidth setting that is both a power of 2 and in the range [0, 1024]. The current value of '0' will be ignored, in 'fast_accel(int*, int, int*, int, int)' (fast_hls/sources/fast.cpp:4:0)
+WARNING: [HLS 214-205] The INTERFACE pragma must have a max_widen_bitwidth setting that is both a power of 2 and in the range [0, 1024]. The current value of '0' will be ignored, in 'fast_accel(int*, int, int*, int, int)' (fast_hls/sources/fast.cpp:4:0)
+INFO: [HLS 200-111] Finished Compiling Optimization and Transform: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 4.546 seconds; current allocated memory: 161.484 MB.
+INFO: [HLS 200-111] Finished Checking Pragmas: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.102 seconds; current allocated memory: 161.485 MB.
+INFO: [HLS 200-10] Starting code transformations ...
+INFO: [HLS 200-111] Finished Standard Transforms: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.131 seconds; current allocated memory: 162.877 MB.
+INFO: [HLS 200-10] Checking synthesizability ...
+INFO: [HLS 200-111] Finished Checking Synthesizability: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.141 seconds; current allocated memory: 162.138 MB.
+INFO: [XFORM 203-502] Unrolling all sub-loops inside loop 'VITIS_LOOP_14_1' (fast_hls/sources/fast.cpp:14) in function 'fast_accel' for pipelining.
+WARNING: [XFORM 203-503] Ignored partial unroll directive for loop 'VITIS_LOOP_16_2' (fast_hls/sources/fast.cpp:16) because its parent loop or function is pipelined.
+WARNING: [HLS 200-936] Cannot unroll loop 'VITIS_LOOP_16_2' (fast_hls/sources/fast.cpp:16) in function 'fast_accel': cannot completely unroll a loop with a variable trip count.
+INFO: [XFORM 203-11] Balancing expressions in function 'fast_accel' (fast_hls/sources/fast.cpp:3)...3 expression(s) balanced.
+INFO: [XFORM 203-11] Balancing expressions in function 'check_for' (fast_hls/sources/fast.cpp:50:2)...11 expression(s) balanced.
+INFO: [HLS 200-111] Finished Loop, function and other optimizations: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.418 seconds; current allocated memory: 182.981 MB.
+INFO: [XFORM 203-541] Flattening a loop nest 'VITIS_LOOP_14_1' (fast_hls/sources/fast.cpp:14:28) in function 'fast_accel'.
+INFO: [HLS 200-111] Finished Architecture Synthesis: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.423 seconds; current allocated memory: 186.190 MB.
+INFO: [HLS 200-10] Starting hardware synthesis ...
+INFO: [HLS 200-10] Synthesizing 'fast_accel' ...
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'check_for' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining function 'check_for'.
+WARNING: [HLS 200-885] Unable to schedule bus request on port 'gmem' (fast_hls/sources/fast.cpp:51) due to limited memory ports. Please consider using a memory core with more ports or partitioning the array.
+INFO: [HLS 200-1470] Pipelining result : Target II = 1, Final II = 13, Depth = 27, function 'check_for'
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111] Finished Scheduling: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.429 seconds; current allocated memory: 187.014 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111] Finished Binding: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.464 seconds; current allocated memory: 187.800 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'fast_accel' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining loop 'VITIS_LOOP_14_1_VITIS_LOOP_16_2'.
+WARNING: [HLS 200-880] The II Violation in module 'fast_accel' (loop 'VITIS_LOOP_14_1_VITIS_LOOP_16_2'): Unable to enforce a carried dependence constraint (II = 13, distance = 1, offset = 1) between 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for' and bus request on port 'gmem' (fast_hls/sources/fast.cpp:38).
+WARNING: [HLS 200-875] II = 14 is infeasible due to multiple pipeline iteration latency = 27 and incompatible II = 13 of 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for'.
+WARNING: [HLS 200-875] II = 15 is infeasible due to multiple pipeline iteration latency = 27 and incompatible II = 13 of 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for'.
+WARNING: [HLS 200-875] II = 16 is infeasible due to multiple pipeline iteration latency = 27 and incompatible II = 13 of 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for'.
+WARNING: [HLS 200-875] II = 17 is infeasible due to multiple pipeline iteration latency = 27 and incompatible II = 13 of 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for'.
+WARNING: [HLS 200-875] II = 18 is infeasible due to multiple pipeline iteration latency = 27 and incompatible II = 13 of 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for'.
+WARNING: [HLS 200-875] II = 19 is infeasible due to multiple pipeline iteration latency = 27 and incompatible II = 13 of 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for'.
+WARNING: [HLS 200-875] II = 20 is infeasible due to multiple pipeline iteration latency = 27 and incompatible II = 13 of 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for'.
+WARNING: [HLS 200-875] II = 21 is infeasible due to multiple pipeline iteration latency = 27 and incompatible II = 13 of 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for'.
+WARNING: [HLS 200-875] II = 22 is infeasible due to multiple pipeline iteration latency = 27 and incompatible II = 13 of 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for'.
+WARNING: [HLS 200-875] II = 23 is infeasible due to multiple pipeline iteration latency = 27 and incompatible II = 13 of 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for'.
+WARNING: [HLS 200-875] II = 24 is infeasible due to multiple pipeline iteration latency = 27 and incompatible II = 13 of 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for'.
+WARNING: [HLS 200-875] II = 25 is infeasible due to multiple pipeline iteration latency = 27 and incompatible II = 13 of 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for'.
+WARNING: [HLS 200-880] The II Violation in module 'fast_accel' (loop 'VITIS_LOOP_14_1_VITIS_LOOP_16_2'): Unable to enforce a carried dependence constraint (II = 26, distance = 1, offset = 1) between 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for' and bus request on port 'gmem' (fast_hls/sources/fast.cpp:38).
+WARNING: [HLS 200-880] The II Violation in module 'fast_accel' (loop 'VITIS_LOOP_14_1_VITIS_LOOP_16_2'): Unable to enforce a carried dependence constraint (II = 27, distance = 1, offset = 1) between 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for' and bus request on port 'gmem' (fast_hls/sources/fast.cpp:38).
+WARNING: [HLS 200-880] The II Violation in module 'fast_accel' (loop 'VITIS_LOOP_14_1_VITIS_LOOP_16_2'): Unable to enforce a carried dependence constraint (II = 28, distance = 1, offset = 1) between 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for' and bus request on port 'gmem' (fast_hls/sources/fast.cpp:38).
+WARNING: [HLS 200-880] The II Violation in module 'fast_accel' (loop 'VITIS_LOOP_14_1_VITIS_LOOP_16_2'): Unable to enforce a carried dependence constraint (II = 35, distance = 1, offset = 1) between 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for' and bus request on port 'gmem' (fast_hls/sources/fast.cpp:38).
+WARNING: [HLS 200-880] The II Violation in module 'fast_accel' (loop 'VITIS_LOOP_14_1_VITIS_LOOP_16_2'): Unable to enforce a carried dependence constraint (II = 38, distance = 1, offset = 1) between 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for' and bus request on port 'gmem' (fast_hls/sources/fast.cpp:38).
+INFO: [HLS 200-1470] Pipelining result : Target II = 1, Final II = 39, Depth = 52, loop 'VITIS_LOOP_14_1_VITIS_LOOP_16_2'
+WARNING: [HLS 200-871] Estimated clock period (16.5855ns) exceeds the target (target clock period: 10ns, clock uncertainty: 2.7ns, effective delay budget: 7.3ns).
+WARNING: [HLS 200-1016] The critical path in module 'fast_accel' consists of the following:	bus read on port 'gmem' (fast_hls/sources/fast.cpp:42) [148]  (7.3 ns)
+	'sub' operation ('sub_ln69_3', fast_hls/sources/fast.cpp:69) [149]  (2.55 ns)
+	'icmp' operation ('icmp_ln69_2', fast_hls/sources/fast.cpp:69) [150]  (2.47 ns)
+	'add' operation ('add_ln42_2', fast_hls/sources/fast.cpp:42) [154]  (1.56 ns)
+	'add' operation ('count_pre', fast_hls/sources/fast.cpp:42) [156]  (1.56 ns)
+	'icmp' operation ('icmp_ln21', fast_hls/sources/fast.cpp:21) [158]  (1.13 ns)
+
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111] Finished Scheduling: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.768 seconds; current allocated memory: 188.419 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111] Finished Binding: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.462 seconds; current allocated memory: 189.303 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'check_for' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [RTGEN 206-100] Generating core module 'mul_32s_32s_32_2_1': 7 instance(s).
+INFO: [RTGEN 206-100] Finished creating RTL model for 'check_for'.
+INFO: [HLS 200-111] Finished Creating RTL model: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.603 seconds; current allocated memory: 190.956 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'fast_accel' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+WARNING: [RTGEN 206-101] Design contains AXI ports. Reset is fixed to synchronous and active low.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/gmem' to 'm_axi'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/img_in' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/threshold' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/img_out' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/rows' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/cols' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on function 'fast_accel' to 's_axilite & ap_ctrl_hs'.
+INFO: [RTGEN 206-100] Bundling port 'threshold', 'rows', 'cols' and 'return' to AXI-Lite port CTRL.
+INFO: [RTGEN 206-100] Bundling port 'img_in' and 'img_out' to AXI-Lite port control.
+INFO: [RTGEN 206-100] Generating core module 'mul_32ns_32ns_64_2_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'mul_32ns_32s_62_2_1': 3 instance(s).
+INFO: [RTGEN 206-100] Finished creating RTL model for 'fast_accel'.
+INFO: [HLS 200-111] Finished Creating RTL model: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 1.116 seconds; current allocated memory: 196.501 MB.
+INFO: [RTMG 210-282] Generating pipelined core: 'fast_accel_mul_32s_32s_32_2_1_Multiplier_0'
+INFO: [RTMG 210-282] Generating pipelined core: 'fast_accel_mul_32ns_32ns_64_2_1_Multiplier_1'
+INFO: [RTMG 210-282] Generating pipelined core: 'fast_accel_mul_32ns_32s_62_2_1_Multiplier_2'
+INFO: [HLS 200-111] Finished Generating all RTL models: CPU user time: 3 seconds. CPU system time: 1 seconds. Elapsed time: 3.119 seconds; current allocated memory: 207.277 MB.
+INFO: [VHDL 208-304] Generating VHDL RTL for fast_accel.
+INFO: [VLOG 209-307] Generating Verilog RTL for fast_accel.
+INFO: [HLS 200-790] **** Loop Constraint Status: All loop constraints were NOT satisfied.
+INFO: [HLS 200-789] **** Estimated Fmax: 60.29 MHz
+INFO: [HLS 200-111] Finished Command csynth_design CPU user time: 9 seconds. CPU system time: 1 seconds. Elapsed time: 13.688 seconds; current allocated memory: 207.917 MB.
+INFO: [HLS 200-112] Total CPU user time: 11 seconds. Total CPU system time: 2 seconds. Total elapsed time: 15.636 seconds; peak allocated memory: 938.255 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg400-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7z020clg400-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csynth_design 
+INFO: [HLS 200-111] Finished File checks and directory preparation: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.091 seconds; current allocated memory: 938.256 MB.
+INFO: [HLS 200-10] Analyzing design file 'fast_hls/sources/fast.cpp' ... 
+WARNING: [HLS 207-1017] unknown pragma ignored: fast_hls/sources/fast.cpp:38:9
+WARNING: [HLS 207-5301] unused parameter 'rows': fast_hls/sources/fast.cpp:36:63
+WARNING: [HLS 207-1017] unknown pragma ignored: fast_hls/sources/fast.cpp:50:9
+WARNING: [HLS 207-5301] unused parameter 'rows': fast_hls/sources/fast.cpp:48:63
+WARNING: [HLS 207-1017] unknown pragma ignored: fast_hls/sources/fast.cpp:69:9
+INFO: [HLS 200-111] Finished Source Code Analysis and Preprocessing: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.691 seconds; current allocated memory: 160.037 MB.
+INFO: [HLS 200-777] Using interface defaults for 'Vivado' flow target.
+INFO: [HLS 214-178] Inlining function 'check_thres(int, int, int)' into 'check_pre(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:37:0)
+INFO: [HLS 214-178] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:49:0)
+INFO: [HLS 214-178] Inlining function 'check_pre(int*, int, int, int, int, int)' into 'fast_accel(int*, int, int*, int, int)' (fast_hls/sources/fast.cpp:4:0)
+WARNING: [HLS 214-205] The INTERFACE pragma must have a max_widen_bitwidth setting that is both a power of 2 and in the range [0, 1024]. The current value of '0' will be ignored, in 'fast_accel(int*, int, int*, int, int)' (fast_hls/sources/fast.cpp:4:0)
+WARNING: [HLS 214-205] The INTERFACE pragma must have a max_widen_bitwidth setting that is both a power of 2 and in the range [0, 1024]. The current value of '0' will be ignored, in 'fast_accel(int*, int, int*, int, int)' (fast_hls/sources/fast.cpp:4:0)
+INFO: [HLS 200-111] Finished Compiling Optimization and Transform: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 4.646 seconds; current allocated memory: 161.485 MB.
+INFO: [HLS 200-111] Finished Checking Pragmas: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.077 seconds; current allocated memory: 161.486 MB.
+INFO: [HLS 200-10] Starting code transformations ...
+INFO: [HLS 200-111] Finished Standard Transforms: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.117 seconds; current allocated memory: 162.879 MB.
+INFO: [HLS 200-10] Checking synthesizability ...
+INFO: [HLS 200-111] Finished Checking Synthesizability: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.137 seconds; current allocated memory: 162.139 MB.
+INFO: [XFORM 203-502] Unrolling all sub-loops inside loop 'VITIS_LOOP_14_1' (fast_hls/sources/fast.cpp:14) in function 'fast_accel' for pipelining.
+WARNING: [XFORM 203-503] Ignored partial unroll directive for loop 'VITIS_LOOP_16_2' (fast_hls/sources/fast.cpp:16) because its parent loop or function is pipelined.
+WARNING: [HLS 200-936] Cannot unroll loop 'VITIS_LOOP_16_2' (fast_hls/sources/fast.cpp:16) in function 'fast_accel': cannot completely unroll a loop with a variable trip count.
+INFO: [XFORM 203-11] Balancing expressions in function 'fast_accel' (fast_hls/sources/fast.cpp:3)...3 expression(s) balanced.
+INFO: [XFORM 203-11] Balancing expressions in function 'check_for' (fast_hls/sources/fast.cpp:51:2)...11 expression(s) balanced.
+INFO: [HLS 200-111] Finished Loop, function and other optimizations: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.325 seconds; current allocated memory: 182.982 MB.
+INFO: [XFORM 203-541] Flattening a loop nest 'VITIS_LOOP_14_1' (fast_hls/sources/fast.cpp:14:28) in function 'fast_accel'.
+INFO: [HLS 200-111] Finished Architecture Synthesis: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.372 seconds; current allocated memory: 186.191 MB.
+INFO: [HLS 200-10] Starting hardware synthesis ...
+INFO: [HLS 200-10] Synthesizing 'fast_accel' ...
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'check_for' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining function 'check_for'.
+WARNING: [HLS 200-885] Unable to schedule bus request on port 'gmem' (fast_hls/sources/fast.cpp:52) due to limited memory ports. Please consider using a memory core with more ports or partitioning the array.
+INFO: [HLS 200-1470] Pipelining result : Target II = 1, Final II = 13, Depth = 27, function 'check_for'
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111] Finished Scheduling: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.395 seconds; current allocated memory: 187.015 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111] Finished Binding: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.365 seconds; current allocated memory: 187.801 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'fast_accel' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining loop 'VITIS_LOOP_14_1_VITIS_LOOP_16_2'.
+WARNING: [HLS 200-880] The II Violation in module 'fast_accel' (loop 'VITIS_LOOP_14_1_VITIS_LOOP_16_2'): Unable to enforce a carried dependence constraint (II = 13, distance = 1, offset = 1) between 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for' and bus request on port 'gmem' (fast_hls/sources/fast.cpp:39).
+WARNING: [HLS 200-875] II = 14 is infeasible due to multiple pipeline iteration latency = 27 and incompatible II = 13 of 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for'.
+WARNING: [HLS 200-875] II = 15 is infeasible due to multiple pipeline iteration latency = 27 and incompatible II = 13 of 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for'.
+WARNING: [HLS 200-875] II = 16 is infeasible due to multiple pipeline iteration latency = 27 and incompatible II = 13 of 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for'.
+WARNING: [HLS 200-875] II = 17 is infeasible due to multiple pipeline iteration latency = 27 and incompatible II = 13 of 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for'.
+WARNING: [HLS 200-875] II = 18 is infeasible due to multiple pipeline iteration latency = 27 and incompatible II = 13 of 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for'.
+WARNING: [HLS 200-875] II = 19 is infeasible due to multiple pipeline iteration latency = 27 and incompatible II = 13 of 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for'.
+WARNING: [HLS 200-875] II = 20 is infeasible due to multiple pipeline iteration latency = 27 and incompatible II = 13 of 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for'.
+WARNING: [HLS 200-875] II = 21 is infeasible due to multiple pipeline iteration latency = 27 and incompatible II = 13 of 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for'.
+WARNING: [HLS 200-875] II = 22 is infeasible due to multiple pipeline iteration latency = 27 and incompatible II = 13 of 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for'.
+WARNING: [HLS 200-875] II = 23 is infeasible due to multiple pipeline iteration latency = 27 and incompatible II = 13 of 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for'.
+WARNING: [HLS 200-875] II = 24 is infeasible due to multiple pipeline iteration latency = 27 and incompatible II = 13 of 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for'.
+WARNING: [HLS 200-875] II = 25 is infeasible due to multiple pipeline iteration latency = 27 and incompatible II = 13 of 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for'.
+WARNING: [HLS 200-880] The II Violation in module 'fast_accel' (loop 'VITIS_LOOP_14_1_VITIS_LOOP_16_2'): Unable to enforce a carried dependence constraint (II = 26, distance = 1, offset = 1) between 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for' and bus request on port 'gmem' (fast_hls/sources/fast.cpp:39).
+WARNING: [HLS 200-880] The II Violation in module 'fast_accel' (loop 'VITIS_LOOP_14_1_VITIS_LOOP_16_2'): Unable to enforce a carried dependence constraint (II = 27, distance = 1, offset = 1) between 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for' and bus request on port 'gmem' (fast_hls/sources/fast.cpp:39).
+WARNING: [HLS 200-880] The II Violation in module 'fast_accel' (loop 'VITIS_LOOP_14_1_VITIS_LOOP_16_2'): Unable to enforce a carried dependence constraint (II = 28, distance = 1, offset = 1) between 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for' and bus request on port 'gmem' (fast_hls/sources/fast.cpp:39).
+WARNING: [HLS 200-880] The II Violation in module 'fast_accel' (loop 'VITIS_LOOP_14_1_VITIS_LOOP_16_2'): Unable to enforce a carried dependence constraint (II = 35, distance = 1, offset = 1) between 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for' and bus request on port 'gmem' (fast_hls/sources/fast.cpp:39).
+WARNING: [HLS 200-880] The II Violation in module 'fast_accel' (loop 'VITIS_LOOP_14_1_VITIS_LOOP_16_2'): Unable to enforce a carried dependence constraint (II = 38, distance = 1, offset = 1) between 'call' operation ('tmp', fast_hls/sources/fast.cpp:27) to 'check_for' and bus request on port 'gmem' (fast_hls/sources/fast.cpp:39).
+INFO: [HLS 200-1470] Pipelining result : Target II = 1, Final II = 39, Depth = 52, loop 'VITIS_LOOP_14_1_VITIS_LOOP_16_2'
+WARNING: [HLS 200-871] Estimated clock period (16.5855ns) exceeds the target (target clock period: 10ns, clock uncertainty: 2.7ns, effective delay budget: 7.3ns).
+WARNING: [HLS 200-1016] The critical path in module 'fast_accel' consists of the following:	bus read on port 'gmem' (fast_hls/sources/fast.cpp:43) [148]  (7.3 ns)
+	'sub' operation ('sub_ln70_3', fast_hls/sources/fast.cpp:70) [149]  (2.55 ns)
+	'icmp' operation ('icmp_ln70_2', fast_hls/sources/fast.cpp:70) [150]  (2.47 ns)
+	'add' operation ('add_ln43_2', fast_hls/sources/fast.cpp:43) [154]  (1.56 ns)
+	'add' operation ('count_pre', fast_hls/sources/fast.cpp:43) [156]  (1.56 ns)
+	'icmp' operation ('icmp_ln21', fast_hls/sources/fast.cpp:21) [158]  (1.13 ns)
+
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111] Finished Scheduling: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.703 seconds; current allocated memory: 188.420 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111] Finished Binding: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.483 seconds; current allocated memory: 189.304 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'check_for' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [RTGEN 206-100] Generating core module 'mul_32s_32s_32_2_1': 7 instance(s).
+INFO: [RTGEN 206-100] Finished creating RTL model for 'check_for'.
+INFO: [HLS 200-111] Finished Creating RTL model: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.654 seconds; current allocated memory: 190.957 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'fast_accel' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+WARNING: [RTGEN 206-101] Design contains AXI ports. Reset is fixed to synchronous and active low.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/gmem' to 'm_axi'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/img_in' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/threshold' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/img_out' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/rows' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/cols' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on function 'fast_accel' to 's_axilite & ap_ctrl_hs'.
+INFO: [RTGEN 206-100] Bundling port 'threshold', 'rows', 'cols' and 'return' to AXI-Lite port CTRL.
+INFO: [RTGEN 206-100] Bundling port 'img_in' and 'img_out' to AXI-Lite port control.
+INFO: [RTGEN 206-100] Generating core module 'mul_32ns_32ns_64_2_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'mul_32ns_32s_62_2_1': 3 instance(s).
+INFO: [RTGEN 206-100] Finished creating RTL model for 'fast_accel'.
+INFO: [HLS 200-111] Finished Creating RTL model: CPU user time: 1 seconds. CPU system time: 1 seconds. Elapsed time: 1.2 seconds; current allocated memory: 196.503 MB.
+INFO: [RTMG 210-282] Generating pipelined core: 'fast_accel_mul_32s_32s_32_2_1_Multiplier_0'
+INFO: [RTMG 210-282] Generating pipelined core: 'fast_accel_mul_32ns_32ns_64_2_1_Multiplier_1'
+INFO: [RTMG 210-282] Generating pipelined core: 'fast_accel_mul_32ns_32s_62_2_1_Multiplier_2'
+INFO: [HLS 200-111] Finished Generating all RTL models: CPU user time: 3 seconds. CPU system time: 0 seconds. Elapsed time: 3.327 seconds; current allocated memory: 207.324 MB.
+INFO: [VHDL 208-304] Generating VHDL RTL for fast_accel.
+INFO: [VLOG 209-307] Generating Verilog RTL for fast_accel.
+INFO: [HLS 200-790] **** Loop Constraint Status: All loop constraints were NOT satisfied.
+INFO: [HLS 200-789] **** Estimated Fmax: 60.29 MHz
+INFO: [HLS 200-111] Finished Command csynth_design CPU user time: 9 seconds. CPU system time: 1 seconds. Elapsed time: 13.889 seconds; current allocated memory: 207.903 MB.
+INFO: [HLS 200-112] Total CPU user time: 11 seconds. Total CPU system time: 2 seconds. Total elapsed time: 16.043 seconds; peak allocated memory: 938.256 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg400-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7z020clg400-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csynth_design 
+INFO: [HLS 200-111] Finished File checks and directory preparation: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.163 seconds; current allocated memory: 938.256 MB.
+INFO: [HLS 200-10] Analyzing design file 'fast_hls/sources/fast.cpp' ... 
+WARNING: [HLS 207-5301] unused parameter 'rows': fast_hls/sources/fast.cpp:36:63
+WARNING: [HLS 207-5301] unused parameter 'rows': fast_hls/sources/fast.cpp:47:63
+WARNING: [HLS 207-1017] unknown pragma ignored: fast_hls/sources/fast.cpp:67:9
+INFO: [HLS 200-111] Finished Source Code Analysis and Preprocessing: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.906 seconds; current allocated memory: 160.005 MB.
+INFO: [HLS 200-777] Using interface defaults for 'Vivado' flow target.
+INFO: [HLS 214-178] Inlining function 'check_thres(int, int, int)' into 'check_pre(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:37:0)
+INFO: [HLS 214-178] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:48:0)
+INFO: [HLS 214-178] Inlining function 'check_pre(int*, int, int, int, int, int)' into 'fast_accel(int*, int, int*, int, int)' (fast_hls/sources/fast.cpp:4:0)
+WARNING: [HLS 214-205] The INTERFACE pragma must have a max_widen_bitwidth setting that is both a power of 2 and in the range [0, 1024]. The current value of '0' will be ignored, in 'fast_accel(int*, int, int*, int, int)' (fast_hls/sources/fast.cpp:4:0)
+WARNING: [HLS 214-205] The INTERFACE pragma must have a max_widen_bitwidth setting that is both a power of 2 and in the range [0, 1024]. The current value of '0' will be ignored, in 'fast_accel(int*, int, int*, int, int)' (fast_hls/sources/fast.cpp:4:0)
+INFO: [HLS 200-111] Finished Compiling Optimization and Transform: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 4.724 seconds; current allocated memory: 161.484 MB.
+INFO: [HLS 200-111] Finished Checking Pragmas: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.083 seconds; current allocated memory: 161.485 MB.
+INFO: [HLS 200-10] Starting code transformations ...
+INFO: [HLS 200-111] Finished Standard Transforms: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.125 seconds; current allocated memory: 162.877 MB.
+INFO: [HLS 200-10] Checking synthesizability ...
+INFO: [HLS 200-111] Finished Checking Synthesizability: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.145 seconds; current allocated memory: 162.138 MB.
+INFO: [XFORM 203-502] Unrolling all sub-loops inside loop 'VITIS_LOOP_14_1' (fast_hls/sources/fast.cpp:14) in function 'fast_accel' for pipelining.
+WARNING: [XFORM 203-503] Ignored partial unroll directive for loop 'VITIS_LOOP_16_2' (fast_hls/sources/fast.cpp:16) because its parent loop or function is pipelined.
+WARNING: [HLS 200-936] Cannot unroll loop 'VITIS_LOOP_16_2' (fast_hls/sources/fast.cpp:16) in function 'fast_accel': cannot completely unroll a loop with a variable trip count.
+INFO: [XFORM 203-11] Balancing expressions in function 'fast_accel' (fast_hls/sources/fast.cpp:3)...3 expression(s) balanced.
+INFO: [XFORM 203-11] Balancing expressions in function 'check_for' (fast_hls/sources/fast.cpp:49:2)...11 expression(s) balanced.
+INFO: [HLS 200-111] Finished Loop, function and other optimizations: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.356 seconds; current allocated memory: 182.981 MB.
+INFO: [XFORM 203-541] Flattening a loop nest 'VITIS_LOOP_14_1' (fast_hls/sources/fast.cpp:14:28) in function 'fast_accel'.
+INFO: [HLS 200-111] Finished Architecture Synthesis: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.392 seconds; current allocated memory: 186.190 MB.
+INFO: [HLS 200-10] Starting hardware synthesis ...
+INFO: [HLS 200-10] Synthesizing 'fast_accel' ...
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'check_for' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining function 'check_for'.
+INFO: [HLS 200-1470] Pipelining result : Target II = 40, Final II = 26, Depth = 26, function 'check_for'
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111] Finished Scheduling: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.301 seconds; current allocated memory: 187.013 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111] Finished Binding: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.382 seconds; current allocated memory: 187.799 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'fast_accel' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining loop 'VITIS_LOOP_14_1_VITIS_LOOP_16_2'.
+INFO: [HLS 200-1470] Pipelining result : Target II = 40, Final II = 40, Depth = 53, loop 'VITIS_LOOP_14_1_VITIS_LOOP_16_2'
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111] Finished Scheduling: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.657 seconds; current allocated memory: 188.412 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111] Finished Binding: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.568 seconds; current allocated memory: 189.300 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'check_for' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [RTGEN 206-100] Generating core module 'mul_32s_32s_32_2_1': 7 instance(s).
+INFO: [RTGEN 206-100] Finished creating RTL model for 'check_for'.
+INFO: [HLS 200-111] Finished Creating RTL model: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.663 seconds; current allocated memory: 190.787 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'fast_accel' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+WARNING: [RTGEN 206-101] Design contains AXI ports. Reset is fixed to synchronous and active low.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/gmem' to 'm_axi'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/img_in' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/threshold' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/img_out' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/rows' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/cols' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on function 'fast_accel' to 's_axilite & ap_ctrl_hs'.
+INFO: [RTGEN 206-100] Bundling port 'threshold', 'rows', 'cols' and 'return' to AXI-Lite port CTRL.
+INFO: [RTGEN 206-100] Bundling port 'img_in' and 'img_out' to AXI-Lite port control.
+INFO: [RTGEN 206-100] Generating core module 'mul_32ns_32ns_64_2_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'mul_32ns_32s_62_2_1': 3 instance(s).
+INFO: [RTGEN 206-100] Finished creating RTL model for 'fast_accel'.
+INFO: [HLS 200-111] Finished Creating RTL model: CPU user time: 2 seconds. CPU system time: 1 seconds. Elapsed time: 1.289 seconds; current allocated memory: 196.295 MB.
+INFO: [RTMG 210-282] Generating pipelined core: 'fast_accel_mul_32s_32s_32_2_1_Multiplier_0'
+INFO: [RTMG 210-282] Generating pipelined core: 'fast_accel_mul_32ns_32ns_64_2_1_Multiplier_1'
+INFO: [RTMG 210-282] Generating pipelined core: 'fast_accel_mul_32ns_32s_62_2_1_Multiplier_2'
+INFO: [HLS 200-111] Finished Generating all RTL models: CPU user time: 3 seconds. CPU system time: 0 seconds. Elapsed time: 3.593 seconds; current allocated memory: 207.031 MB.
+INFO: [VHDL 208-304] Generating VHDL RTL for fast_accel.
+INFO: [VLOG 209-307] Generating Verilog RTL for fast_accel.
+INFO: [HLS 200-790] **** Loop Constraint Status: All loop constraints were satisfied.
+INFO: [HLS 200-789] **** Estimated Fmax: 136.99 MHz
+INFO: [HLS 200-111] Finished Command csynth_design CPU user time: 9 seconds. CPU system time: 1 seconds. Elapsed time: 14.65 seconds; current allocated memory: 207.671 MB.
+INFO: [HLS 200-112] Total CPU user time: 12 seconds. Total CPU system time: 2 seconds. Total elapsed time: 16.965 seconds; peak allocated memory: 938.256 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg400-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7z020clg400-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csynth_design 
+INFO: [HLS 200-111] Finished File checks and directory preparation: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.118 seconds; current allocated memory: 938.256 MB.
+INFO: [HLS 200-10] Analyzing design file 'fast_hls/sources/fast.cpp' ... 
+WARNING: [HLS 207-5301] unused parameter 'rows': fast_hls/sources/fast.cpp:36:63
+WARNING: [HLS 207-5301] unused parameter 'rows': fast_hls/sources/fast.cpp:47:63
+INFO: [HLS 200-111] Finished Source Code Analysis and Preprocessing: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.899 seconds; current allocated memory: 160.035 MB.
+INFO: [HLS 200-777] Using interface defaults for 'Vivado' flow target.
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_pre(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:39:18)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_pre(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:42:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_pre(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:41:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_pre(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:40:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:50:18)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:61:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:60:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:59:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:58:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:57:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:56:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:55:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:54:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:53:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:52:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:51:15)
+INFO: [HLS 214-178] Inlining function 'check_pre(int*, int, int, int, int, int)' into 'fast_accel(int*, int, int*, int, int)' (fast_hls/sources/fast.cpp:4:0)
+WARNING: [HLS 214-205] The INTERFACE pragma must have a max_widen_bitwidth setting that is both a power of 2 and in the range [0, 1024]. The current value of '0' will be ignored, in 'fast_accel(int*, int, int*, int, int)' (fast_hls/sources/fast.cpp:4:0)
+WARNING: [HLS 214-205] The INTERFACE pragma must have a max_widen_bitwidth setting that is both a power of 2 and in the range [0, 1024]. The current value of '0' will be ignored, in 'fast_accel(int*, int, int*, int, int)' (fast_hls/sources/fast.cpp:4:0)
+INFO: [HLS 200-111] Finished Compiling Optimization and Transform: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 4.785 seconds; current allocated memory: 161.609 MB.
+INFO: [HLS 200-111] Finished Checking Pragmas: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.085 seconds; current allocated memory: 161.610 MB.
+INFO: [HLS 200-10] Starting code transformations ...
+INFO: [HLS 200-111] Finished Standard Transforms: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.133 seconds; current allocated memory: 163.003 MB.
+INFO: [HLS 200-10] Checking synthesizability ...
+INFO: [HLS 200-111] Finished Checking Synthesizability: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.15 seconds; current allocated memory: 162.264 MB.
+INFO: [XFORM 203-502] Unrolling all sub-loops inside loop 'VITIS_LOOP_14_1' (fast_hls/sources/fast.cpp:14) in function 'fast_accel' for pipelining.
+WARNING: [XFORM 203-503] Ignored partial unroll directive for loop 'VITIS_LOOP_16_2' (fast_hls/sources/fast.cpp:16) because its parent loop or function is pipelined.
+WARNING: [HLS 200-936] Cannot unroll loop 'VITIS_LOOP_16_2' (fast_hls/sources/fast.cpp:16) in function 'fast_accel': cannot completely unroll a loop with a variable trip count.
+INFO: [XFORM 203-11] Balancing expressions in function 'fast_accel' (fast_hls/sources/fast.cpp:3)...3 expression(s) balanced.
+INFO: [XFORM 203-11] Balancing expressions in function 'check_for' (fast_hls/sources/fast.cpp:49:2)...11 expression(s) balanced.
+INFO: [HLS 200-111] Finished Loop, function and other optimizations: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.358 seconds; current allocated memory: 183.091 MB.
+INFO: [XFORM 203-541] Flattening a loop nest 'VITIS_LOOP_14_1' (fast_hls/sources/fast.cpp:14:28) in function 'fast_accel'.
+INFO: [HLS 200-111] Finished Architecture Synthesis: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.411 seconds; current allocated memory: 186.285 MB.
+INFO: [HLS 200-10] Starting hardware synthesis ...
+INFO: [HLS 200-10] Synthesizing 'fast_accel' ...
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'check_for' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining function 'check_for'.
+INFO: [HLS 200-1470] Pipelining result : Target II = 40, Final II = 26, Depth = 26, function 'check_for'
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111] Finished Scheduling: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.323 seconds; current allocated memory: 187.076 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111] Finished Binding: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.4 seconds; current allocated memory: 187.847 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'fast_accel' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining loop 'VITIS_LOOP_14_1_VITIS_LOOP_16_2'.
+INFO: [HLS 200-1470] Pipelining result : Target II = 40, Final II = 40, Depth = 53, loop 'VITIS_LOOP_14_1_VITIS_LOOP_16_2'
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111] Finished Scheduling: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.717 seconds; current allocated memory: 188.460 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111] Finished Binding: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.577 seconds; current allocated memory: 189.332 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'check_for' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [RTGEN 206-100] Generating core module 'mul_32s_32s_32_2_1': 7 instance(s).
+INFO: [RTGEN 206-100] Finished creating RTL model for 'check_for'.
+INFO: [HLS 200-111] Finished Creating RTL model: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.658 seconds; current allocated memory: 190.835 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'fast_accel' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+WARNING: [RTGEN 206-101] Design contains AXI ports. Reset is fixed to synchronous and active low.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/gmem' to 'm_axi'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/img_in' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/threshold' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/img_out' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/rows' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/cols' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on function 'fast_accel' to 's_axilite & ap_ctrl_hs'.
+INFO: [RTGEN 206-100] Bundling port 'threshold', 'rows', 'cols' and 'return' to AXI-Lite port CTRL.
+INFO: [RTGEN 206-100] Bundling port 'img_in' and 'img_out' to AXI-Lite port control.
+INFO: [RTGEN 206-100] Generating core module 'mul_32ns_32ns_64_2_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'mul_32ns_32s_62_2_1': 3 instance(s).
+INFO: [RTGEN 206-100] Finished creating RTL model for 'fast_accel'.
+INFO: [HLS 200-111] Finished Creating RTL model: CPU user time: 2 seconds. CPU system time: 1 seconds. Elapsed time: 1.17 seconds; current allocated memory: 196.327 MB.
+INFO: [RTMG 210-282] Generating pipelined core: 'fast_accel_mul_32s_32s_32_2_1_Multiplier_0'
+INFO: [RTMG 210-282] Generating pipelined core: 'fast_accel_mul_32ns_32ns_64_2_1_Multiplier_1'
+INFO: [RTMG 210-282] Generating pipelined core: 'fast_accel_mul_32ns_32s_62_2_1_Multiplier_2'
+INFO: [HLS 200-111] Finished Generating all RTL models: CPU user time: 3 seconds. CPU system time: 0 seconds. Elapsed time: 3.514 seconds; current allocated memory: 207.058 MB.
+INFO: [VHDL 208-304] Generating VHDL RTL for fast_accel.
+INFO: [VLOG 209-307] Generating Verilog RTL for fast_accel.
+INFO: [HLS 200-790] **** Loop Constraint Status: All loop constraints were satisfied.
+INFO: [HLS 200-789] **** Estimated Fmax: 136.99 MHz
+INFO: [HLS 200-111] Finished Command csynth_design CPU user time: 10 seconds. CPU system time: 1 seconds. Elapsed time: 14.606 seconds; current allocated memory: 207.713 MB.
+INFO: [HLS 200-112] Total CPU user time: 13 seconds. Total CPU system time: 2 seconds. Total elapsed time: 17.379 seconds; peak allocated memory: 938.256 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg400-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7z020clg400-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csynth_design 
+INFO: [HLS 200-111] Finished File checks and directory preparation: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.121 seconds; current allocated memory: 938.256 MB.
+INFO: [HLS 200-10] Analyzing design file 'fast_hls/sources/fast.cpp' ... 
+WARNING: [HLS 207-5301] unused parameter 'rows': fast_hls/sources/fast.cpp:36:63
+WARNING: [HLS 207-5301] unused parameter 'rows': fast_hls/sources/fast.cpp:48:63
+INFO: [HLS 200-111] Finished Source Code Analysis and Preprocessing: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.874 seconds; current allocated memory: 160.035 MB.
+INFO: [HLS 200-777] Using interface defaults for 'Vivado' flow target.
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_pre(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:40:18)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_pre(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:43:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_pre(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:42:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_pre(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:41:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:52:18)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:63:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:62:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:61:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:60:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:59:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:58:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:57:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:56:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:55:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:54:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:53:15)
+INFO: [HLS 214-131] Inlining function 'check_pre(int*, int, int, int, int, int)' into 'fast_accel(int*, int, int*, int, int)' (fast_hls/sources/fast.cpp:19:14)
+INFO: [HLS 214-131] Inlining function 'check_for(int*, int, int, int, int, int)' into 'fast_accel(int*, int, int*, int, int)' (fast_hls/sources/fast.cpp:27:16)
+WARNING: [HLS 214-205] The INTERFACE pragma must have a max_widen_bitwidth setting that is both a power of 2 and in the range [0, 1024]. The current value of '0' will be ignored, in 'fast_accel(int*, int, int*, int, int)' (fast_hls/sources/fast.cpp:4:0)
+WARNING: [HLS 214-205] The INTERFACE pragma must have a max_widen_bitwidth setting that is both a power of 2 and in the range [0, 1024]. The current value of '0' will be ignored, in 'fast_accel(int*, int, int*, int, int)' (fast_hls/sources/fast.cpp:4:0)
+INFO: [HLS 200-111] Finished Compiling Optimization and Transform: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 5.088 seconds; current allocated memory: 161.930 MB.
+INFO: [HLS 200-111] Finished Checking Pragmas: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.099 seconds; current allocated memory: 161.931 MB.
+INFO: [HLS 200-10] Starting code transformations ...
+INFO: [HLS 200-111] Finished Standard Transforms: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.14 seconds; current allocated memory: 163.424 MB.
+INFO: [HLS 200-10] Checking synthesizability ...
+INFO: [HLS 200-111] Finished Checking Synthesizability: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.153 seconds; current allocated memory: 162.559 MB.
+INFO: [XFORM 203-502] Unrolling all sub-loops inside loop 'VITIS_LOOP_14_1' (fast_hls/sources/fast.cpp:14) in function 'fast_accel' for pipelining.
+WARNING: [XFORM 203-503] Ignored partial unroll directive for loop 'VITIS_LOOP_16_2' (fast_hls/sources/fast.cpp:16) because its parent loop or function is pipelined.
+WARNING: [HLS 200-936] Cannot unroll loop 'VITIS_LOOP_16_2' (fast_hls/sources/fast.cpp:16) in function 'fast_accel': cannot completely unroll a loop with a variable trip count.
+INFO: [XFORM 203-11] Balancing expressions in function 'fast_accel' (fast_hls/sources/fast.cpp:3)...15 expression(s) balanced.
+INFO: [HLS 200-111] Finished Loop, function and other optimizations: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.349 seconds; current allocated memory: 183.409 MB.
+INFO: [XFORM 203-541] Flattening a loop nest 'VITIS_LOOP_14_1' (fast_hls/sources/fast.cpp:14:28) in function 'fast_accel'.
+INFO: [HLS 200-111] Finished Architecture Synthesis: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.375 seconds; current allocated memory: 177.039 MB.
+INFO: [HLS 200-10] Starting hardware synthesis ...
+INFO: [HLS 200-10] Synthesizing 'fast_accel' ...
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'fast_accel' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining loop 'VITIS_LOOP_14_1_VITIS_LOOP_16_2'.
+INFO: [HLS 200-1470] Pipelining result : Target II = 20, Final II = 20, Depth = 52, loop 'VITIS_LOOP_14_1_VITIS_LOOP_16_2'
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111] Finished Scheduling: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.534 seconds; current allocated memory: 178.303 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111] Finished Binding: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.647 seconds; current allocated memory: 179.790 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'fast_accel' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+WARNING: [RTGEN 206-101] Design contains AXI ports. Reset is fixed to synchronous and active low.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/gmem' to 'm_axi'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/img_in' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/threshold' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/img_out' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/rows' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/cols' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on function 'fast_accel' to 's_axilite & ap_ctrl_hs'.
+INFO: [RTGEN 206-100] Bundling port 'threshold', 'rows', 'cols' and 'return' to AXI-Lite port CTRL.
+INFO: [RTGEN 206-100] Bundling port 'img_in' and 'img_out' to AXI-Lite port control.
+INFO: [RTGEN 206-100] Generating core module 'mul_32ns_32ns_64_2_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'mul_32ns_32s_62_2_1': 8 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'mul_33ns_32s_62_2_1': 2 instance(s).
+INFO: [RTGEN 206-100] Finished creating RTL model for 'fast_accel'.
+INFO: [HLS 200-111] Finished Creating RTL model: CPU user time: 1 seconds. CPU system time: 1 seconds. Elapsed time: 0.899 seconds; current allocated memory: 182.960 MB.
+INFO: [RTMG 210-282] Generating pipelined core: 'fast_accel_mul_32ns_32ns_64_2_1_Multiplier_0'
+INFO: [RTMG 210-282] Generating pipelined core: 'fast_accel_mul_32ns_32s_62_2_1_Multiplier_1'
+INFO: [RTMG 210-282] Generating pipelined core: 'fast_accel_mul_33ns_32s_62_2_1_Multiplier_2'
+INFO: [HLS 200-111] Finished Generating all RTL models: CPU user time: 3 seconds. CPU system time: 0 seconds. Elapsed time: 3.974 seconds; current allocated memory: 195.709 MB.
+INFO: [VHDL 208-304] Generating VHDL RTL for fast_accel.
+INFO: [VLOG 209-307] Generating Verilog RTL for fast_accel.
+INFO: [HLS 200-790] **** Loop Constraint Status: All loop constraints were satisfied.
+INFO: [HLS 200-789] **** Estimated Fmax: 136.99 MHz
+INFO: [HLS 200-111] Finished Command csynth_design CPU user time: 9 seconds. CPU system time: 1 seconds. Elapsed time: 13.565 seconds; current allocated memory: 196.218 MB.
+INFO: [HLS 200-112] Total CPU user time: 12 seconds. Total CPU system time: 2 seconds. Total elapsed time: 16.233 seconds; peak allocated memory: 938.256 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg400-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7z020clg400-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csynth_design 
+INFO: [HLS 200-111] Finished File checks and directory preparation: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.129 seconds; current allocated memory: 938.256 MB.
+INFO: [HLS 200-10] Analyzing design file 'fast_hls/sources/fast.cpp' ... 
+WARNING: [HLS 207-5301] unused parameter 'rows': fast_hls/sources/fast.cpp:36:63
+WARNING: [HLS 207-5301] unused parameter 'rows': fast_hls/sources/fast.cpp:48:63
+INFO: [HLS 200-111] Finished Source Code Analysis and Preprocessing: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.907 seconds; current allocated memory: 160.035 MB.
+INFO: [HLS 200-777] Using interface defaults for 'Vivado' flow target.
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_pre(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:40:18)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_pre(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:43:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_pre(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:42:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_pre(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:41:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:52:18)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:63:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:62:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:61:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:60:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:59:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:58:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:57:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:56:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:55:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:54:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:53:15)
+INFO: [HLS 214-131] Inlining function 'check_pre(int*, int, int, int, int, int)' into 'fast_accel(int*, int, int*, int, int)' (fast_hls/sources/fast.cpp:19:14)
+INFO: [HLS 214-131] Inlining function 'check_for(int*, int, int, int, int, int)' into 'fast_accel(int*, int, int*, int, int)' (fast_hls/sources/fast.cpp:27:16)
+WARNING: [HLS 214-205] The INTERFACE pragma must have a max_widen_bitwidth setting that is both a power of 2 and in the range [0, 1024]. The current value of '0' will be ignored, in 'fast_accel(int*, int, int*, int, int)' (fast_hls/sources/fast.cpp:4:0)
+WARNING: [HLS 214-205] The INTERFACE pragma must have a max_widen_bitwidth setting that is both a power of 2 and in the range [0, 1024]. The current value of '0' will be ignored, in 'fast_accel(int*, int, int*, int, int)' (fast_hls/sources/fast.cpp:4:0)
+INFO: [HLS 200-111] Finished Compiling Optimization and Transform: CPU user time: 0 seconds. CPU system time: 1 seconds. Elapsed time: 6.106 seconds; current allocated memory: 161.930 MB.
+INFO: [HLS 200-111] Finished Checking Pragmas: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.097 seconds; current allocated memory: 161.931 MB.
+INFO: [HLS 200-10] Starting code transformations ...
+INFO: [HLS 200-111] Finished Standard Transforms: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.139 seconds; current allocated memory: 163.424 MB.
+INFO: [HLS 200-10] Checking synthesizability ...
+INFO: [HLS 200-111] Finished Checking Synthesizability: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.151 seconds; current allocated memory: 162.559 MB.
+INFO: [XFORM 203-502] Unrolling all sub-loops inside loop 'VITIS_LOOP_14_1' (fast_hls/sources/fast.cpp:14) in function 'fast_accel' for pipelining.
+WARNING: [XFORM 203-503] Ignored partial unroll directive for loop 'VITIS_LOOP_16_2' (fast_hls/sources/fast.cpp:16) because its parent loop or function is pipelined.
+WARNING: [HLS 200-936] Cannot unroll loop 'VITIS_LOOP_16_2' (fast_hls/sources/fast.cpp:16) in function 'fast_accel': cannot completely unroll a loop with a variable trip count.
+INFO: [XFORM 203-11] Balancing expressions in function 'fast_accel' (fast_hls/sources/fast.cpp:3)...15 expression(s) balanced.
+INFO: [HLS 200-111] Finished Loop, function and other optimizations: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.349 seconds; current allocated memory: 183.408 MB.
+INFO: [XFORM 203-541] Flattening a loop nest 'VITIS_LOOP_14_1' (fast_hls/sources/fast.cpp:14:28) in function 'fast_accel'.
+INFO: [HLS 200-111] Finished Architecture Synthesis: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.385 seconds; current allocated memory: 177.038 MB.
+INFO: [HLS 200-10] Starting hardware synthesis ...
+INFO: [HLS 200-10] Synthesizing 'fast_accel' ...
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'fast_accel' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining loop 'VITIS_LOOP_14_1_VITIS_LOOP_16_2'.
+INFO: [HLS 200-1470] Pipelining result : Target II = 20, Final II = 20, Depth = 52, loop 'VITIS_LOOP_14_1_VITIS_LOOP_16_2'
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111] Finished Scheduling: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.558 seconds; current allocated memory: 178.303 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111] Finished Binding: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.684 seconds; current allocated memory: 179.788 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'fast_accel' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+WARNING: [RTGEN 206-101] Design contains AXI ports. Reset is fixed to synchronous and active low.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/gmem' to 'm_axi'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/img_in' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/threshold' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/img_out' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/rows' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/cols' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on function 'fast_accel' to 's_axilite & ap_ctrl_hs'.
+INFO: [RTGEN 206-100] Bundling port 'threshold', 'rows', 'cols' and 'return' to AXI-Lite port CTRL.
+INFO: [RTGEN 206-100] Bundling port 'img_in' and 'img_out' to AXI-Lite port control.
+INFO: [RTGEN 206-100] Generating core module 'mul_32ns_32ns_64_2_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'mul_32ns_32s_62_2_1': 8 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'mul_33ns_32s_62_2_1': 2 instance(s).
+INFO: [RTGEN 206-100] Finished creating RTL model for 'fast_accel'.
+INFO: [HLS 200-111] Finished Creating RTL model: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.932 seconds; current allocated memory: 182.959 MB.
+INFO: [RTMG 210-282] Generating pipelined core: 'fast_accel_mul_32ns_32ns_64_2_1_Multiplier_0'
+INFO: [RTMG 210-282] Generating pipelined core: 'fast_accel_mul_32ns_32s_62_2_1_Multiplier_1'
+INFO: [RTMG 210-282] Generating pipelined core: 'fast_accel_mul_33ns_32s_62_2_1_Multiplier_2'
+INFO: [HLS 200-111] Finished Generating all RTL models: CPU user time: 4 seconds. CPU system time: 0 seconds. Elapsed time: 4.039 seconds; current allocated memory: 195.707 MB.
+INFO: [VHDL 208-304] Generating VHDL RTL for fast_accel.
+INFO: [VLOG 209-307] Generating Verilog RTL for fast_accel.
+INFO: [HLS 200-790] **** Loop Constraint Status: All loop constraints were satisfied.
+INFO: [HLS 200-789] **** Estimated Fmax: 136.99 MHz
+INFO: [HLS 200-111] Finished Command csynth_design CPU user time: 8 seconds. CPU system time: 1 seconds. Elapsed time: 14.794 seconds; current allocated memory: 196.216 MB.
+INFO: [HLS 200-112] Total CPU user time: 12 seconds. Total CPU system time: 2 seconds. Total elapsed time: 17.645 seconds; peak allocated memory: 938.256 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg400-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7z020clg400-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csynth_design 
+INFO: [HLS 200-111] Finished File checks and directory preparation: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.078 seconds; current allocated memory: 938.256 MB.
+INFO: [HLS 200-10] Analyzing design file 'fast_hls/sources/fast.cpp' ... 
+WARNING: [HLS 207-5301] unused parameter 'rows': fast_hls/sources/fast.cpp:36:63
+WARNING: [HLS 207-5301] unused parameter 'rows': fast_hls/sources/fast.cpp:48:63
+INFO: [HLS 200-111] Finished Source Code Analysis and Preprocessing: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.625 seconds; current allocated memory: 160.004 MB.
+INFO: [HLS 200-777] Using interface defaults for 'Vivado' flow target.
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_pre(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:40:18)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_pre(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:43:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_pre(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:42:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_pre(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:41:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:52:18)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:63:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:62:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:61:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:60:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:59:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:58:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:57:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:56:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:55:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:54:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:53:15)
+INFO: [HLS 214-131] Inlining function 'check_pre(int*, int, int, int, int, int)' into 'fast_accel(int*, int, int*, int, int)' (fast_hls/sources/fast.cpp:19:14)
+INFO: [HLS 214-131] Inlining function 'check_for(int*, int, int, int, int, int)' into 'fast_accel(int*, int, int*, int, int)' (fast_hls/sources/fast.cpp:27:16)
+WARNING: [HLS 214-205] The INTERFACE pragma must have a max_widen_bitwidth setting that is both a power of 2 and in the range [0, 1024]. The current value of '0' will be ignored, in 'fast_accel(int*, int, int*, int, int)' (fast_hls/sources/fast.cpp:4:0)
+WARNING: [HLS 214-205] The INTERFACE pragma must have a max_widen_bitwidth setting that is both a power of 2 and in the range [0, 1024]. The current value of '0' will be ignored, in 'fast_accel(int*, int, int*, int, int)' (fast_hls/sources/fast.cpp:4:0)
+INFO: [HLS 200-111] Finished Compiling Optimization and Transform: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 4.063 seconds; current allocated memory: 161.930 MB.
+INFO: [HLS 200-111] Finished Checking Pragmas: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.067 seconds; current allocated memory: 161.931 MB.
+INFO: [HLS 200-10] Starting code transformations ...
+INFO: [HLS 200-111] Finished Standard Transforms: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.102 seconds; current allocated memory: 163.424 MB.
+INFO: [HLS 200-10] Checking synthesizability ...
+INFO: [HLS 200-111] Finished Checking Synthesizability: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.11 seconds; current allocated memory: 162.559 MB.
+INFO: [XFORM 203-502] Unrolling all sub-loops inside loop 'VITIS_LOOP_14_1' (fast_hls/sources/fast.cpp:14) in function 'fast_accel' for pipelining.
+WARNING: [XFORM 203-503] Ignored partial unroll directive for loop 'VITIS_LOOP_16_2' (fast_hls/sources/fast.cpp:16) because its parent loop or function is pipelined.
+WARNING: [HLS 200-936] Cannot unroll loop 'VITIS_LOOP_16_2' (fast_hls/sources/fast.cpp:16) in function 'fast_accel': cannot completely unroll a loop with a variable trip count.
+INFO: [XFORM 203-11] Balancing expressions in function 'fast_accel' (fast_hls/sources/fast.cpp:3)...15 expression(s) balanced.
+INFO: [HLS 200-111] Finished Loop, function and other optimizations: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.252 seconds; current allocated memory: 183.408 MB.
+INFO: [XFORM 203-541] Flattening a loop nest 'VITIS_LOOP_14_1' (fast_hls/sources/fast.cpp:14:28) in function 'fast_accel'.
+INFO: [HLS 200-111] Finished Architecture Synthesis: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.278 seconds; current allocated memory: 177.038 MB.
+INFO: [HLS 200-10] Starting hardware synthesis ...
+INFO: [HLS 200-10] Synthesizing 'fast_accel' ...
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'fast_accel' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining loop 'VITIS_LOOP_14_1_VITIS_LOOP_16_2'.
+INFO: [HLS 200-1470] Pipelining result : Target II = 20, Final II = 20, Depth = 52, loop 'VITIS_LOOP_14_1_VITIS_LOOP_16_2'
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111] Finished Scheduling: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.412 seconds; current allocated memory: 178.303 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111] Finished Binding: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.506 seconds; current allocated memory: 179.789 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'fast_accel' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+WARNING: [RTGEN 206-101] Design contains AXI ports. Reset is fixed to synchronous and active low.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/gmem' to 'm_axi'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/img_in' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/threshold' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/img_out' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/rows' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/cols' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on function 'fast_accel' to 's_axilite & ap_ctrl_hs'.
+INFO: [RTGEN 206-100] Bundling port 'threshold', 'rows', 'cols' and 'return' to AXI-Lite port CTRL.
+INFO: [RTGEN 206-100] Bundling port 'img_in' and 'img_out' to AXI-Lite port control.
+INFO: [RTGEN 206-100] Generating core module 'mul_32ns_32ns_64_2_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'mul_32ns_32s_62_2_1': 8 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'mul_33ns_32s_62_2_1': 2 instance(s).
+INFO: [RTGEN 206-100] Finished creating RTL model for 'fast_accel'.
+INFO: [HLS 200-111] Finished Creating RTL model: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.7 seconds; current allocated memory: 182.959 MB.
+INFO: [RTMG 210-282] Generating pipelined core: 'fast_accel_mul_32ns_32ns_64_2_1_Multiplier_0'
+INFO: [RTMG 210-282] Generating pipelined core: 'fast_accel_mul_32ns_32s_62_2_1_Multiplier_1'
+INFO: [RTMG 210-282] Generating pipelined core: 'fast_accel_mul_33ns_32s_62_2_1_Multiplier_2'
+INFO: [HLS 200-111] Finished Generating all RTL models: CPU user time: 3 seconds. CPU system time: 1 seconds. Elapsed time: 3.091 seconds; current allocated memory: 195.708 MB.
+INFO: [VHDL 208-304] Generating VHDL RTL for fast_accel.
+INFO: [VLOG 209-307] Generating Verilog RTL for fast_accel.
+INFO: [HLS 200-790] **** Loop Constraint Status: All loop constraints were satisfied.
+INFO: [HLS 200-789] **** Estimated Fmax: 136.99 MHz
+INFO: [HLS 200-111] Finished Command csynth_design CPU user time: 6 seconds. CPU system time: 1 seconds. Elapsed time: 10.52 seconds; current allocated memory: 196.217 MB.
+INFO: [HLS 200-112] Total CPU user time: 8 seconds. Total CPU system time: 2 seconds. Total elapsed time: 12.461 seconds; peak allocated memory: 938.256 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg400-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7z020clg400-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1510] Running: cosim_design 
+INFO: [COSIM 212-47] Using XSIM for RTL simulation.
+INFO: [COSIM 212-14] Instrumenting C test bench ...
+WARNING: [COSIM 212-369] AXI_master port 'img_in' has a depth of '0'. Insufficient depth may result in simulation mismatch or freeze.
+WARNING: [COSIM 212-369] AXI_master port 'img_out' has a depth of '0'. Insufficient depth may result in simulation mismatch or freeze.
+INFO: [COSIM 212-302] Starting C TB testing ... 
+INFO: [COSIM 212-333] Generating C post check test bench ...
+INFO: [COSIM 212-12] Generating RTL test bench ...
+INFO: [COSIM 212-1] *** C/RTL co-simulation file generation completed. ***
+INFO: [COSIM 212-323] Starting verilog simulation. 
+INFO: [COSIM 212-15] Starting XSIM ...
+INFO: [COSIM 212-316] Starting C post checking ...
+INFO: [COSIM 212-1000] *** C/RTL co-simulation finished: PASS ***
+INFO: [COSIM 212-211] II is measurable only when transaction number is greater than 1 in RTL simulation. Otherwise, they will be marked as all NA. If user wants to calculate them, please make sure there are at least 2 transactions in RTL simulation.
+INFO: [HLS 200-111] Finished Command cosim_design CPU user time: 2 seconds. CPU system time: 0 seconds. Elapsed time: 40.143 seconds; current allocated memory: 165.904 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg400-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7z020clg400-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1510] Running: export_design -rtl verilog -format ip_catalog -output D:/VitisHLSProjects/fast_hls/fast_accel.zip 
+INFO: [IMPL 213-8] Exporting RTL as a Vivado IP.
+INFO: [HLS 200-802] Generated output file fast_hls/fast_accel.zip
+INFO: [HLS 200-111] Finished Command export_design CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 8.056 seconds; current allocated memory: 167.429 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg400-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1464] Running solution command: config_export -format=ip_catalog
+INFO: [HLS 200-1464] Running solution command: config_export -output=D:/VitisHLSProjects/fast_hls/fast_accel.zip
+INFO: [HLS 200-1464] Running solution command: config_export -rtl=verilog
+INFO: [HLS 200-1510] Running: set_part xc7z020clg400-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1510] Running: config_export -format ip_catalog -output D:/VitisHLSProjects/fast_hls/fast_accel.zip -rtl verilog 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 7.198 seconds; current allocated memory: 158.795 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg400-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1464] Running solution command: config_export -format=ip_catalog
+INFO: [HLS 200-1464] Running solution command: config_export -output=D:/VitisHLSProjects/fast_hls/fast_accel.zip
+INFO: [HLS 200-1464] Running solution command: config_export -rtl=verilog
+INFO: [HLS 200-1510] Running: set_part xc7z020clg400-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: config_export -format ip_catalog -output D:/VitisHLSProjects/fast_hls/fast_accel.zip -rtl verilog 
+INFO: [HLS 200-1510] Running: csynth_design 
+INFO: [HLS 200-111] Finished File checks and directory preparation: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.121 seconds; current allocated memory: 938.342 MB.
+INFO: [HLS 200-10] Analyzing design file 'fast_hls/sources/fast.cpp' ... 
+WARNING: [HLS 207-5301] unused parameter 'rows': fast_hls/sources/fast.cpp:36:63
+WARNING: [HLS 207-5301] unused parameter 'rows': fast_hls/sources/fast.cpp:48:63
+INFO: [HLS 200-111] Finished Source Code Analysis and Preprocessing: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 4.871 seconds; current allocated memory: 160.135 MB.
+INFO: [HLS 200-777] Using interface defaults for 'Vivado' flow target.
+INFO: [HLS 214-131] Inlining function 'ap_int_base<9, true>::ap_int_base<8, false>(ap_int_base<8, false> const&)' into 'ap_int_base<8, false>::RType<8, false>::minus operator-<8, false, 8, false>(ap_int_base<8, false> const&, ap_int_base<8, false> const&)' (D:/Xilinx/Vitis_HLS/2020.2/common/technology/autopilot\ap_int_base.h:1347:341)
+INFO: [HLS 214-131] Inlining function 'ap_int<9>::ap_int<9, true>(ap_int_base<9, true> const&)' into 'ap_int_base<8, false>::RType<8, false>::minus operator-<8, false, 8, false>(ap_int_base<8, false> const&, ap_int_base<8, false> const&)' (D:/Xilinx/Vitis_HLS/2020.2/common/technology/autopilot\ap_int_base.h:1347:555)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<9, true>::ap_int_base<8, false>(ap_int_base<8, false> const&)' into 'ap_int_base<8, false>::RType<8, false>::minus operator-<8, false, 8, false>(ap_int_base<8, false> const&, ap_int_base<8, false> const&)' (D:/Xilinx/Vitis_HLS/2020.2/common/technology/autopilot\ap_int_base.h:1347:430)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<32, true>::ap_int_base(int)' into 'bool operator><9, true>(ap_int_base<9, true> const&, int)' (D:/Xilinx/Vitis_HLS/2020.2/common/technology/autopilot\ap_int_base.h:1616:337)
+INFO: [HLS 214-131] Inlining function 'bool ap_int_base<9, true>::operator><32, true>(ap_int_base<32, true> const&) const' into 'bool operator><9, true>(ap_int_base<9, true> const&, int)' (D:/Xilinx/Vitis_HLS/2020.2/common/technology/autopilot\ap_int_base.h:1616:335)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::RType<8, false>::minus operator-<8, false, 8, false>(ap_int_base<8, false> const&, ap_int_base<8, false> const&)' into 'check_thres(ap_uint<8>, ap_uint<8>, int)' (fast_hls/sources/fast.cpp:70:12)
+INFO: [HLS 214-131] Inlining function 'bool operator><9, true>(ap_int_base<9, true> const&, int)' into 'check_thres(ap_uint<8>, ap_uint<8>, int)' (fast_hls/sources/fast.cpp:70:21)
+INFO: [HLS 214-131] Inlining function 'check_thres(ap_uint<8>, ap_uint<8>, int)' into 'check_pre(ap_uint<8>*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:40:18)
+INFO: [HLS 214-131] Inlining function 'check_thres(ap_uint<8>, ap_uint<8>, int)' into 'check_pre(ap_uint<8>*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:43:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(ap_uint<8>, ap_uint<8>, int)' into 'check_pre(ap_uint<8>*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:42:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(ap_uint<8>, ap_uint<8>, int)' into 'check_pre(ap_uint<8>*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:41:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(ap_uint<8>, ap_uint<8>, int)' into 'check_for(ap_uint<8>*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:52:18)
+INFO: [HLS 214-131] Inlining function 'check_thres(ap_uint<8>, ap_uint<8>, int)' into 'check_for(ap_uint<8>*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:63:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(ap_uint<8>, ap_uint<8>, int)' into 'check_for(ap_uint<8>*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:62:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(ap_uint<8>, ap_uint<8>, int)' into 'check_for(ap_uint<8>*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:61:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(ap_uint<8>, ap_uint<8>, int)' into 'check_for(ap_uint<8>*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:60:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(ap_uint<8>, ap_uint<8>, int)' into 'check_for(ap_uint<8>*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:59:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(ap_uint<8>, ap_uint<8>, int)' into 'check_for(ap_uint<8>*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:58:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(ap_uint<8>, ap_uint<8>, int)' into 'check_for(ap_uint<8>*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:57:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(ap_uint<8>, ap_uint<8>, int)' into 'check_for(ap_uint<8>*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:56:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(ap_uint<8>, ap_uint<8>, int)' into 'check_for(ap_uint<8>*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:55:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(ap_uint<8>, ap_uint<8>, int)' into 'check_for(ap_uint<8>*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:54:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(ap_uint<8>, ap_uint<8>, int)' into 'check_for(ap_uint<8>*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:53:15)
+INFO: [HLS 214-131] Inlining function 'check_pre(ap_uint<8>*, int, int, int, int, int)' into 'fast_accel(ap_uint<8>*, int, ap_uint<8>*, int, int)' (fast_hls/sources/fast.cpp:19:14)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into 'fast_accel(ap_uint<8>*, int, ap_uint<8>*, int, int)' (fast_hls/sources/fast.cpp:31:28)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into 'fast_accel(ap_uint<8>*, int, ap_uint<8>*, int, int)' (fast_hls/sources/fast.cpp:29:28)
+INFO: [HLS 214-131] Inlining function 'check_for(ap_uint<8>*, int, int, int, int, int)' into 'fast_accel(ap_uint<8>*, int, ap_uint<8>*, int, int)' (fast_hls/sources/fast.cpp:27:16)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into 'fast_accel(ap_uint<8>*, int, ap_uint<8>*, int, int)' (fast_hls/sources/fast.cpp:23:28)
+WARNING: [HLS 214-205] The INTERFACE pragma must have a max_widen_bitwidth setting that is both a power of 2 and in the range [0, 1024]. The current value of '0' will be ignored, in 'fast_accel(ap_uint<8>*, int, ap_uint<8>*, int, int)' (fast_hls/sources/fast.cpp:4:0)
+WARNING: [HLS 214-205] The INTERFACE pragma must have a max_widen_bitwidth setting that is both a power of 2 and in the range [0, 1024]. The current value of '0' will be ignored, in 'fast_accel(ap_uint<8>*, int, ap_uint<8>*, int, int)' (fast_hls/sources/fast.cpp:4:0)
+INFO: [HLS 200-111] Finished Compiling Optimization and Transform: CPU user time: 1 seconds. CPU system time: 1 seconds. Elapsed time: 5.698 seconds; current allocated memory: 162.148 MB.
+INFO: [HLS 200-111] Finished Checking Pragmas: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.085 seconds; current allocated memory: 162.148 MB.
+INFO: [HLS 200-10] Starting code transformations ...
+INFO: [HLS 200-111] Finished Standard Transforms: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.198 seconds; current allocated memory: 167.301 MB.
+INFO: [HLS 200-10] Checking synthesizability ...
+INFO: [HLS 200-111] Finished Checking Synthesizability: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.207 seconds; current allocated memory: 172.555 MB.
+INFO: [XFORM 203-502] Unrolling all sub-loops inside loop 'VITIS_LOOP_14_1' (fast_hls/sources/fast.cpp:14) in function 'fast_accel' for pipelining.
+WARNING: [XFORM 203-503] Ignored partial unroll directive for loop 'VITIS_LOOP_16_2' (fast_hls/sources/fast.cpp:16) because its parent loop or function is pipelined.
+WARNING: [HLS 200-936] Cannot unroll loop 'VITIS_LOOP_16_2' (fast_hls/sources/fast.cpp:16) in function 'fast_accel': cannot completely unroll a loop with a variable trip count.
+INFO: [XFORM 203-11] Balancing expressions in function 'fast_accel' (fast_hls/sources/fast.cpp:3)...25 expression(s) balanced.
+INFO: [HLS 200-111] Finished Loop, function and other optimizations: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.413 seconds; current allocated memory: 199.765 MB.
+INFO: [XFORM 203-541] Flattening a loop nest 'VITIS_LOOP_14_1' (fast_hls/sources/fast.cpp:14:28) in function 'fast_accel'.
+INFO: [HLS 200-111] Finished Architecture Synthesis: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.366 seconds; current allocated memory: 196.192 MB.
+INFO: [HLS 200-10] Starting hardware synthesis ...
+INFO: [HLS 200-10] Synthesizing 'fast_accel' ...
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'fast_accel' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining loop 'VITIS_LOOP_14_1_VITIS_LOOP_16_2'.
+INFO: [HLS 200-1470] Pipelining result : Target II = 20, Final II = 20, Depth = 51, loop 'VITIS_LOOP_14_1_VITIS_LOOP_16_2'
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111] Finished Scheduling: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.558 seconds; current allocated memory: 197.404 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111] Finished Binding: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.65 seconds; current allocated memory: 198.757 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'fast_accel' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+WARNING: [RTGEN 206-101] Design contains AXI ports. Reset is fixed to synchronous and active low.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/gmem' to 'm_axi'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/img_in' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/threshold' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/img_out' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/rows' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/cols' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on function 'fast_accel' to 's_axilite & ap_ctrl_hs'.
+INFO: [RTGEN 206-100] Bundling port 'threshold', 'rows', 'cols' and 'return' to AXI-Lite port CTRL.
+INFO: [RTGEN 206-100] Bundling port 'img_in' and 'img_out' to AXI-Lite port control.
+INFO: [RTGEN 206-100] Generating core module 'mul_32ns_32ns_64_2_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'mul_32ns_32s_64_2_1': 8 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'mul_33ns_32s_64_2_1': 2 instance(s).
+INFO: [RTGEN 206-100] Finished creating RTL model for 'fast_accel'.
+INFO: [HLS 200-111] Finished Creating RTL model: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.894 seconds; current allocated memory: 201.794 MB.
+INFO: [RTMG 210-282] Generating pipelined core: 'fast_accel_mul_32ns_32ns_64_2_1_Multiplier_0'
+INFO: [RTMG 210-282] Generating pipelined core: 'fast_accel_mul_32ns_32s_64_2_1_Multiplier_1'
+INFO: [RTMG 210-282] Generating pipelined core: 'fast_accel_mul_33ns_32s_64_2_1_Multiplier_2'
+INFO: [HLS 200-111] Finished Generating all RTL models: CPU user time: 4 seconds. CPU system time: 0 seconds. Elapsed time: 4.428 seconds; current allocated memory: 214.173 MB.
+INFO: [VHDL 208-304] Generating VHDL RTL for fast_accel.
+INFO: [VLOG 209-307] Generating Verilog RTL for fast_accel.
+INFO: [HLS 200-790] **** Loop Constraint Status: All loop constraints were satisfied.
+INFO: [HLS 200-789] **** Estimated Fmax: 136.99 MHz
+INFO: [HLS 200-111] Finished Command csynth_design CPU user time: 9 seconds. CPU system time: 1 seconds. Elapsed time: 18.808 seconds; current allocated memory: 214.651 MB.
+INFO: [HLS 200-112] Total CPU user time: 12 seconds. Total CPU system time: 2 seconds. Total elapsed time: 21.603 seconds; peak allocated memory: 938.342 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg400-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1464] Running solution command: config_export -format=ip_catalog
+INFO: [HLS 200-1464] Running solution command: config_export -output=D:/VitisHLSProjects/fast_hls/fast_accel.zip
+INFO: [HLS 200-1464] Running solution command: config_export -rtl=verilog
+INFO: [HLS 200-1510] Running: set_part xc7z020clg400-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1510] Running: config_export -format ip_catalog -output D:/VitisHLSProjects/fast_hls/fast_accel.zip -rtl verilog 
+INFO: [HLS 200-1510] Running: cosim_design 
+INFO: [COSIM 212-47] Using XSIM for RTL simulation.
+INFO: [COSIM 212-14] Instrumenting C test bench ...
+WARNING: [COSIM 212-369] AXI_master port 'img_in' has a depth of '0'. Insufficient depth may result in simulation mismatch or freeze.
+WARNING: [COSIM 212-369] AXI_master port 'img_out' has a depth of '0'. Insufficient depth may result in simulation mismatch or freeze.
+INFO: [COSIM 212-302] Starting C TB testing ... 
+INFO: [COSIM 212-333] Generating C post check test bench ...
+INFO: [COSIM 212-12] Generating RTL test bench ...
+INFO: [COSIM 212-1] *** C/RTL co-simulation file generation completed. ***
+INFO: [COSIM 212-323] Starting verilog simulation. 
+INFO: [COSIM 212-15] Starting XSIM ...
+INFO: [COSIM 212-316] Starting C post checking ...
+INFO: [COSIM 212-1000] *** C/RTL co-simulation finished: PASS ***
+INFO: [COSIM 212-211] II is measurable only when transaction number is greater than 1 in RTL simulation. Otherwise, they will be marked as all NA. If user wants to calculate them, please make sure there are at least 2 transactions in RTL simulation.
+INFO: [HLS 200-111] Finished Command cosim_design CPU user time: 3 seconds. CPU system time: 1 seconds. Elapsed time: 51.302 seconds; current allocated memory: 165.969 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg400-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1464] Running solution command: config_export -format=ip_catalog
+INFO: [HLS 200-1464] Running solution command: config_export -output=D:/VitisHLSProjects/fast_hls/fast_accel.zip
+INFO: [HLS 200-1464] Running solution command: config_export -rtl=verilog
+INFO: [HLS 200-1510] Running: set_part xc7z020clg400-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1510] Running: config_export -format ip_catalog -output D:/VitisHLSProjects/fast_hls/fast_accel.zip -rtl verilog 
+INFO: [HLS 200-1510] Running: export_design -rtl verilog -format ip_catalog -output D:/VitisHLSProjects/fast_hls/fast_accel_new.zip 
+INFO: [IMPL 213-8] Exporting RTL as a Vivado IP.
+INFO: [HLS 200-802] Generated output file fast_hls/fast_accel_new.zip
+INFO: [HLS 200-111] Finished Command export_design CPU user time: 2 seconds. CPU system time: 1 seconds. Elapsed time: 12.207 seconds; current allocated memory: 167.500 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg400-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1464] Running solution command: config_export -format=ip_catalog
+INFO: [HLS 200-1464] Running solution command: config_export -output=D:/VitisHLSProjects/fast_hls/fast_accel_new.zip
+INFO: [HLS 200-1464] Running solution command: config_export -rtl=verilog
+INFO: [HLS 200-1510] Running: set_part xc7z020clg400-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: config_export -format ip_catalog -output D:/VitisHLSProjects/fast_hls/fast_accel_new.zip -rtl verilog 
+INFO: [HLS 200-1510] Running: csynth_design 
+INFO: [HLS 200-111] Finished File checks and directory preparation: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.123 seconds; current allocated memory: 938.343 MB.
+INFO: [HLS 200-10] Analyzing design file 'fast_hls/sources/fast.cpp' ... 
+WARNING: [HLS 207-5301] unused parameter 'rows': fast_hls/sources/fast.cpp:36:63
+WARNING: [HLS 207-5301] unused parameter 'rows': fast_hls/sources/fast.cpp:48:63
+INFO: [HLS 200-111] Finished Source Code Analysis and Preprocessing: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 5.215 seconds; current allocated memory: 160.165 MB.
+INFO: [HLS 200-777] Using interface defaults for 'Vivado' flow target.
+INFO: [HLS 214-131] Inlining function 'ap_int_base<9, true>::ap_int_base<8, false>(ap_int_base<8, false> const&)' into 'ap_int_base<8, false>::RType<8, false>::minus operator-<8, false, 8, false>(ap_int_base<8, false> const&, ap_int_base<8, false> const&)' (D:/Xilinx/Vitis_HLS/2020.2/common/technology/autopilot\ap_int_base.h:1347:341)
+INFO: [HLS 214-131] Inlining function 'ap_int<9>::ap_int<9, true>(ap_int_base<9, true> const&)' into 'ap_int_base<8, false>::RType<8, false>::minus operator-<8, false, 8, false>(ap_int_base<8, false> const&, ap_int_base<8, false> const&)' (D:/Xilinx/Vitis_HLS/2020.2/common/technology/autopilot\ap_int_base.h:1347:555)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<9, true>::ap_int_base<8, false>(ap_int_base<8, false> const&)' into 'ap_int_base<8, false>::RType<8, false>::minus operator-<8, false, 8, false>(ap_int_base<8, false> const&, ap_int_base<8, false> const&)' (D:/Xilinx/Vitis_HLS/2020.2/common/technology/autopilot\ap_int_base.h:1347:430)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<32, true>::ap_int_base(int)' into 'bool operator><9, true>(ap_int_base<9, true> const&, int)' (D:/Xilinx/Vitis_HLS/2020.2/common/technology/autopilot\ap_int_base.h:1616:337)
+INFO: [HLS 214-131] Inlining function 'bool ap_int_base<9, true>::operator><32, true>(ap_int_base<32, true> const&) const' into 'bool operator><9, true>(ap_int_base<9, true> const&, int)' (D:/Xilinx/Vitis_HLS/2020.2/common/technology/autopilot\ap_int_base.h:1616:335)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::RType<8, false>::minus operator-<8, false, 8, false>(ap_int_base<8, false> const&, ap_int_base<8, false> const&)' into 'check_thres(ap_uint<8>, ap_uint<8>, int)' (fast_hls/sources/fast.cpp:70:12)
+INFO: [HLS 214-131] Inlining function 'bool operator><9, true>(ap_int_base<9, true> const&, int)' into 'check_thres(ap_uint<8>, ap_uint<8>, int)' (fast_hls/sources/fast.cpp:70:51)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::RType<8, false>::minus operator-<8, false, 8, false>(ap_int_base<8, false> const&, ap_int_base<8, false> const&)' into 'check_thres(ap_uint<8>, ap_uint<8>, int)' (fast_hls/sources/fast.cpp:70:43)
+INFO: [HLS 214-131] Inlining function 'bool operator><9, true>(ap_int_base<9, true> const&, int)' into 'check_thres(ap_uint<8>, ap_uint<8>, int)' (fast_hls/sources/fast.cpp:70:21)
+INFO: [HLS 214-131] Inlining function 'check_thres(ap_uint<8>, ap_uint<8>, int)' into 'check_pre(ap_uint<8>*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:40:18)
+INFO: [HLS 214-131] Inlining function 'check_thres(ap_uint<8>, ap_uint<8>, int)' into 'check_pre(ap_uint<8>*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:43:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(ap_uint<8>, ap_uint<8>, int)' into 'check_pre(ap_uint<8>*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:42:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(ap_uint<8>, ap_uint<8>, int)' into 'check_pre(ap_uint<8>*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:41:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(ap_uint<8>, ap_uint<8>, int)' into 'check_for(ap_uint<8>*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:52:18)
+INFO: [HLS 214-131] Inlining function 'check_thres(ap_uint<8>, ap_uint<8>, int)' into 'check_for(ap_uint<8>*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:63:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(ap_uint<8>, ap_uint<8>, int)' into 'check_for(ap_uint<8>*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:62:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(ap_uint<8>, ap_uint<8>, int)' into 'check_for(ap_uint<8>*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:61:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(ap_uint<8>, ap_uint<8>, int)' into 'check_for(ap_uint<8>*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:60:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(ap_uint<8>, ap_uint<8>, int)' into 'check_for(ap_uint<8>*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:59:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(ap_uint<8>, ap_uint<8>, int)' into 'check_for(ap_uint<8>*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:58:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(ap_uint<8>, ap_uint<8>, int)' into 'check_for(ap_uint<8>*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:57:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(ap_uint<8>, ap_uint<8>, int)' into 'check_for(ap_uint<8>*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:56:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(ap_uint<8>, ap_uint<8>, int)' into 'check_for(ap_uint<8>*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:55:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(ap_uint<8>, ap_uint<8>, int)' into 'check_for(ap_uint<8>*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:54:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(ap_uint<8>, ap_uint<8>, int)' into 'check_for(ap_uint<8>*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:53:15)
+INFO: [HLS 214-131] Inlining function 'check_pre(ap_uint<8>*, int, int, int, int, int)' into 'fast_accel(ap_uint<8>*, int, ap_uint<8>*, int, int)' (fast_hls/sources/fast.cpp:19:14)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into 'fast_accel(ap_uint<8>*, int, ap_uint<8>*, int, int)' (fast_hls/sources/fast.cpp:31:28)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into 'fast_accel(ap_uint<8>*, int, ap_uint<8>*, int, int)' (fast_hls/sources/fast.cpp:29:28)
+INFO: [HLS 214-131] Inlining function 'check_for(ap_uint<8>*, int, int, int, int, int)' into 'fast_accel(ap_uint<8>*, int, ap_uint<8>*, int, int)' (fast_hls/sources/fast.cpp:27:16)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into 'fast_accel(ap_uint<8>*, int, ap_uint<8>*, int, int)' (fast_hls/sources/fast.cpp:23:28)
+WARNING: [HLS 214-205] The INTERFACE pragma must have a max_widen_bitwidth setting that is both a power of 2 and in the range [0, 1024]. The current value of '0' will be ignored, in 'fast_accel(ap_uint<8>*, int, ap_uint<8>*, int, int)' (fast_hls/sources/fast.cpp:4:0)
+WARNING: [HLS 214-205] The INTERFACE pragma must have a max_widen_bitwidth setting that is both a power of 2 and in the range [0, 1024]. The current value of '0' will be ignored, in 'fast_accel(ap_uint<8>*, int, ap_uint<8>*, int, int)' (fast_hls/sources/fast.cpp:4:0)
+INFO: [HLS 200-111] Finished Compiling Optimization and Transform: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 6.008 seconds; current allocated memory: 162.212 MB.
+INFO: [HLS 200-111] Finished Checking Pragmas: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.087 seconds; current allocated memory: 162.213 MB.
+INFO: [HLS 200-10] Starting code transformations ...
+INFO: [HLS 200-111] Finished Standard Transforms: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.227 seconds; current allocated memory: 167.633 MB.
+INFO: [HLS 200-10] Checking synthesizability ...
+INFO: [HLS 200-111] Finished Checking Synthesizability: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.221 seconds; current allocated memory: 172.713 MB.
+INFO: [XFORM 203-502] Unrolling all sub-loops inside loop 'VITIS_LOOP_14_1' (fast_hls/sources/fast.cpp:14) in function 'fast_accel' for pipelining.
+WARNING: [XFORM 203-503] Ignored partial unroll directive for loop 'VITIS_LOOP_16_2' (fast_hls/sources/fast.cpp:16) because its parent loop or function is pipelined.
+WARNING: [HLS 200-936] Cannot unroll loop 'VITIS_LOOP_16_2' (fast_hls/sources/fast.cpp:16) in function 'fast_accel': cannot completely unroll a loop with a variable trip count.
+INFO: [XFORM 203-401] Performing if-conversion on hyperblock from (fast_hls/sources/fast.cpp:16:28) to (fast_hls/sources/fast.cpp:21:11) in function 'fast_accel'... converting 13 basic blocks.
+INFO: [XFORM 203-401] Performing if-conversion on hyperblock from (fast_hls/sources/fast.cpp:52:38) to (fast_hls/sources/fast.cpp:28:11) in function 'fast_accel'... converting 37 basic blocks.
+INFO: [XFORM 203-11] Balancing expressions in function 'fast_accel' (fast_hls/sources/fast.cpp:3)...25 expression(s) balanced.
+INFO: [HLS 200-111] Finished Loop, function and other optimizations: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.533 seconds; current allocated memory: 200.179 MB.
+INFO: [XFORM 203-541] Flattening a loop nest 'VITIS_LOOP_14_1' (fast_hls/sources/fast.cpp:14:28) in function 'fast_accel'.
+INFO: [HLS 200-111] Finished Architecture Synthesis: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.362 seconds; current allocated memory: 196.735 MB.
+INFO: [HLS 200-10] Starting hardware synthesis ...
+INFO: [HLS 200-10] Synthesizing 'fast_accel' ...
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'fast_accel' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining loop 'VITIS_LOOP_14_1_VITIS_LOOP_16_2'.
+INFO: [HLS 200-1470] Pipelining result : Target II = 20, Final II = 20, Depth = 51, loop 'VITIS_LOOP_14_1_VITIS_LOOP_16_2'
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111] Finished Scheduling: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.611 seconds; current allocated memory: 198.112 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111] Finished Binding: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.751 seconds; current allocated memory: 199.609 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'fast_accel' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+WARNING: [RTGEN 206-101] Design contains AXI ports. Reset is fixed to synchronous and active low.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/gmem' to 'm_axi'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/img_in' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/threshold' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/img_out' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/rows' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/cols' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on function 'fast_accel' to 's_axilite & ap_ctrl_hs'.
+INFO: [RTGEN 206-100] Bundling port 'threshold', 'rows', 'cols' and 'return' to AXI-Lite port CTRL.
+INFO: [RTGEN 206-100] Bundling port 'img_in' and 'img_out' to AXI-Lite port control.
+INFO: [RTGEN 206-100] Generating core module 'mul_32ns_32ns_64_2_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'mul_32ns_32s_64_2_1': 8 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'mul_33ns_32s_64_2_1': 2 instance(s).
+INFO: [RTGEN 206-100] Finished creating RTL model for 'fast_accel'.
+INFO: [HLS 200-111] Finished Creating RTL model: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 1.066 seconds; current allocated memory: 202.972 MB.
+INFO: [RTMG 210-282] Generating pipelined core: 'fast_accel_mul_32ns_32ns_64_2_1_Multiplier_0'
+INFO: [RTMG 210-282] Generating pipelined core: 'fast_accel_mul_32ns_32s_64_2_1_Multiplier_1'
+INFO: [RTMG 210-282] Generating pipelined core: 'fast_accel_mul_33ns_32s_64_2_1_Multiplier_2'
+INFO: [HLS 200-111] Finished Generating all RTL models: CPU user time: 4 seconds. CPU system time: 1 seconds. Elapsed time: 4.498 seconds; current allocated memory: 216.134 MB.
+INFO: [VHDL 208-304] Generating VHDL RTL for fast_accel.
+INFO: [VLOG 209-307] Generating Verilog RTL for fast_accel.
+INFO: [HLS 200-790] **** Loop Constraint Status: All loop constraints were satisfied.
+INFO: [HLS 200-789] **** Estimated Fmax: 136.99 MHz
+INFO: [HLS 200-111] Finished Command csynth_design CPU user time: 9 seconds. CPU system time: 1 seconds. Elapsed time: 20.005 seconds; current allocated memory: 216.628 MB.
+INFO: [HLS 200-112] Total CPU user time: 14 seconds. Total CPU system time: 3 seconds. Total elapsed time: 23.584 seconds; peak allocated memory: 938.343 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg400-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1464] Running solution command: config_export -format=ip_catalog
+INFO: [HLS 200-1464] Running solution command: config_export -output=D:/VitisHLSProjects/fast_hls/fast_accel_new.zip
+INFO: [HLS 200-1464] Running solution command: config_export -rtl=verilog
+INFO: [HLS 200-1510] Running: set_part xc7z020-clg400-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: config_export -format ip_catalog -output D:/VitisHLSProjects/fast_hls/fast_accel_new.zip -rtl verilog 
+INFO: [HLS 200-1510] Running: set_directive_top -name fast_accel fast_accel 
+INFO: [HLS 200-1510] Running: csynth_design 
+INFO: [HLS 200-111] Finished File checks and directory preparation: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.14 seconds; current allocated memory: 938.296 MB.
+INFO: [HLS 200-10] Analyzing design file 'fast_hls/sources/fast.cpp' ... 
+WARNING: [HLS 207-5301] unused parameter 'rows': fast_hls/sources/fast.cpp:36:63
+WARNING: [HLS 207-5301] unused parameter 'rows': fast_hls/sources/fast.cpp:48:63
+INFO: [HLS 200-111] Finished Source Code Analysis and Preprocessing: CPU user time: 1 seconds. CPU system time: 1 seconds. Elapsed time: 1.014 seconds; current allocated memory: 160.165 MB.
+INFO: [HLS 200-777] Using interface defaults for 'Vivado' flow target.
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_pre(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:40:18)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_pre(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:43:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_pre(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:42:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_pre(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:41:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:52:18)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:63:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:62:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:61:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:60:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:59:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:58:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:57:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:56:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:55:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:54:15)
+INFO: [HLS 214-131] Inlining function 'check_thres(int, int, int)' into 'check_for(int*, int, int, int, int, int)' (fast_hls/sources/fast.cpp:53:15)
+INFO: [HLS 214-131] Inlining function 'check_pre(int*, int, int, int, int, int)' into 'fast_accel(int*, int, int*, int, int)' (fast_hls/sources/fast.cpp:19:14)
+INFO: [HLS 214-131] Inlining function 'check_for(int*, int, int, int, int, int)' into 'fast_accel(int*, int, int*, int, int)' (fast_hls/sources/fast.cpp:27:16)
+WARNING: [HLS 214-205] The INTERFACE pragma must have a max_widen_bitwidth setting that is both a power of 2 and in the range [0, 1024]. The current value of '0' will be ignored, in 'fast_accel(int*, int, int*, int, int)' (fast_hls/sources/fast.cpp:4:0)
+WARNING: [HLS 214-205] The INTERFACE pragma must have a max_widen_bitwidth setting that is both a power of 2 and in the range [0, 1024]. The current value of '0' will be ignored, in 'fast_accel(int*, int, int*, int, int)' (fast_hls/sources/fast.cpp:4:0)
+INFO: [HLS 200-111] Finished Compiling Optimization and Transform: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 5.475 seconds; current allocated memory: 162.082 MB.
+INFO: [HLS 200-111] Finished Checking Pragmas: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.103 seconds; current allocated memory: 162.083 MB.
+INFO: [HLS 200-10] Starting code transformations ...
+INFO: [HLS 200-111] Finished Standard Transforms: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.146 seconds; current allocated memory: 163.650 MB.
+INFO: [HLS 200-10] Checking synthesizability ...
+INFO: [HLS 200-111] Finished Checking Synthesizability: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.157 seconds; current allocated memory: 162.721 MB.
+INFO: [XFORM 203-502] Unrolling all sub-loops inside loop 'VITIS_LOOP_14_1' (fast_hls/sources/fast.cpp:14) in function 'fast_accel' for pipelining.
+WARNING: [XFORM 203-503] Ignored partial unroll directive for loop 'VITIS_LOOP_16_2' (fast_hls/sources/fast.cpp:16) because its parent loop or function is pipelined.
+WARNING: [HLS 200-936] Cannot unroll loop 'VITIS_LOOP_16_2' (fast_hls/sources/fast.cpp:16) in function 'fast_accel': cannot completely unroll a loop with a variable trip count.
+INFO: [XFORM 203-11] Balancing expressions in function 'fast_accel' (fast_hls/sources/fast.cpp:3)...15 expression(s) balanced.
+INFO: [HLS 200-111] Finished Loop, function and other optimizations: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.369 seconds; current allocated memory: 183.650 MB.
+INFO: [XFORM 203-541] Flattening a loop nest 'VITIS_LOOP_14_1' (fast_hls/sources/fast.cpp:14:28) in function 'fast_accel'.
+INFO: [HLS 200-111] Finished Architecture Synthesis: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.393 seconds; current allocated memory: 177.554 MB.
+INFO: [HLS 200-10] Starting hardware synthesis ...
+INFO: [HLS 200-10] Synthesizing 'fast_accel' ...
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'fast_accel' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining loop 'VITIS_LOOP_14_1_VITIS_LOOP_16_2'.
+INFO: [HLS 200-1470] Pipelining result : Target II = 20, Final II = 20, Depth = 52, loop 'VITIS_LOOP_14_1_VITIS_LOOP_16_2'
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111] Finished Scheduling: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.644 seconds; current allocated memory: 178.948 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111] Finished Binding: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.752 seconds; current allocated memory: 180.525 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'fast_accel' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+WARNING: [RTGEN 206-101] Design contains AXI ports. Reset is fixed to synchronous and active low.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/gmem' to 'm_axi'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/img_in' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/threshold' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/img_out' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/rows' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'fast_accel/cols' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on function 'fast_accel' to 's_axilite & ap_ctrl_hs'.
+INFO: [RTGEN 206-100] Bundling port 'threshold', 'rows', 'cols' and 'return' to AXI-Lite port CTRL.
+INFO: [RTGEN 206-100] Bundling port 'img_in' and 'img_out' to AXI-Lite port control.
+INFO: [RTGEN 206-100] Generating core module 'mul_32ns_32ns_64_2_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'mul_32ns_32s_62_2_1': 8 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'mul_33ns_32s_62_2_1': 2 instance(s).
+INFO: [RTGEN 206-100] Finished creating RTL model for 'fast_accel'.
+INFO: [HLS 200-111] Finished Creating RTL model: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 1.267 seconds; current allocated memory: 183.997 MB.
+INFO: [RTMG 210-282] Generating pipelined core: 'fast_accel_mul_32ns_32ns_64_2_1_Multiplier_0'
+INFO: [RTMG 210-282] Generating pipelined core: 'fast_accel_mul_32ns_32s_62_2_1_Multiplier_1'
+INFO: [RTMG 210-282] Generating pipelined core: 'fast_accel_mul_33ns_32s_62_2_1_Multiplier_2'
+INFO: [HLS 200-111] Finished Generating all RTL models: CPU user time: 4 seconds. CPU system time: 0 seconds. Elapsed time: 4.693 seconds; current allocated memory: 197.364 MB.
+INFO: [VHDL 208-304] Generating VHDL RTL for fast_accel.
+INFO: [VLOG 209-307] Generating Verilog RTL for fast_accel.
+INFO: [HLS 200-790] **** Loop Constraint Status: All loop constraints were satisfied.
+INFO: [HLS 200-789] **** Estimated Fmax: 136.99 MHz
+INFO: [HLS 200-111] Finished Command csynth_design CPU user time: 10 seconds. CPU system time: 1 seconds. Elapsed time: 15.474 seconds; current allocated memory: 197.900 MB.
+INFO: [HLS 200-112] Total CPU user time: 14 seconds. Total CPU system time: 2 seconds. Total elapsed time: 18.561 seconds; peak allocated memory: 938.296 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg400-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1464] Running solution command: config_export -format=ip_catalog
+INFO: [HLS 200-1464] Running solution command: config_export -output=D:/VitisHLSProjects/fast_hls/fast_accel_new.zip
+INFO: [HLS 200-1464] Running solution command: config_export -rtl=verilog
+INFO: [HLS 200-1510] Running: set_part xc7z020-clg400-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: config_export -format ip_catalog -output D:/VitisHLSProjects/fast_hls/fast_accel_new.zip -rtl verilog 
+INFO: [HLS 200-1510] Running: set_directive_top -name fast_accel fast_accel 
+INFO: [HLS 200-1510] Running: export_design -rtl verilog -format ip_catalog -output D:/VitisHLSProjects/fast_hls/fast_accel_bi.zip 
+INFO: [IMPL 213-8] Exporting RTL as a Vivado IP.
+INFO: [HLS 200-802] Generated output file fast_hls/fast_accel_bi.zip
+INFO: [HLS 200-111] Finished Command export_design CPU user time: 2 seconds. CPU system time: 0 seconds. Elapsed time: 18.318 seconds; current allocated memory: 167.579 MB.

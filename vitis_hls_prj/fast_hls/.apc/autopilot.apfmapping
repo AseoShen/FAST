@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="fast.h" path="D:\VitisHLSProjects\fast_hls\sources\fast.h"/>
+    <originFiles name="fast.cpp" path="D:\VitisHLSProjects\fast_hls\sources\fast.cpp"/>
+  </source>
+  <testbench>
+    <originFiles name="fast_test.cpp" path="D:\VitisHLSProjects\fast_hls\sources\fast_test.cpp"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>
