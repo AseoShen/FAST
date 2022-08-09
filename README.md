@@ -9,9 +9,11 @@
 
 2. **git仓库结构**：
 
-     - `vitis_hls_prj/`：Vitis HLS 2020.2 项目文件
-     - `vivado_prj/`：Vivado 2020.2 项目文件
-     - `jupyter_notebooks/`：用于PYNQ-Z1的Jupyter Notebook文件。
+      - `jupyter/`：jupyter文件即图片测试样例目录`pic/`
+      - `overlay/`：`.bit`和`.hwh`文件，导入PYNQ时**这些文件应与jupyter文件放在同一目录下**
+      - `src/`：HLS源文件
+      - `report/`：HLS的报告结果
+      - `assets/`：`README.md`中引用的图片文件
 
 3. **Jupyter Notebook版本说明**：
 

@@ -1,2 +1,4 @@
 .vscode/
 pic_temp/
+vivado_prj/
+vitis_hls_prj/
