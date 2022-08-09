@@ -2,6 +2,8 @@
 
 @author Shen Yilin, NJU EE
 
+***本项目基于PYNQ-Z1板卡***
+
 1. 本项目为**2022 Xilinx Summer School CV方向课后任务**，主要特性有：
 
  - 在任务要求基础上，圆上像素点和中心点进行正、负向作差，高灰度（白）角点和低灰度（灰）角点均可识别
@@ -9,7 +11,7 @@
 
 2. **git仓库结构**：
 
-      - `jupyter/`：jupyter文件即图片测试样例目录`pic/`
+      - `jupyter/`：jupyter文件与图片测试样例目录`pic/`
       - `overlay/`：`.bit`和`.hwh`文件，导入PYNQ时**这些文件应与jupyter文件放在同一目录下**
       - `src/`：HLS源文件
       - `report/`：HLS的报告结果
